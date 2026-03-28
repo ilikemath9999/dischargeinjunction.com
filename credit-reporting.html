@@ -57,8 +57,8 @@
     background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem;
     display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;
   }
-  nav .brand { color: var(--text); font-weight: 700; font-size: 1.1rem; text-decoration: none; }
-  nav .brand:hover { text-decoration: none; color: var(--accent); }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
   nav .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
   nav .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
   nav .nav-links a:hover { color: var(--accent); }
@@ -116,15 +116,16 @@
 <a href="#main" class="skip-link">Skip to main content</a>
 
 <nav aria-label="Main navigation">
-  <a href="/" class="brand">dischargeinjunction.com</a>
-  <button class="hamburger" aria-label="Toggle navigation" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <a href="/" class="site-name">dischargeinjunction.com</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
     <a href="/">Home</a>
     <a href="/violations.html">Violations</a>
-    <a href="/credit-reporting.html" aria-current="page">Credit Reporting</a>
-    <a href="/contempt.html">Contempt Motions</a>
+    <a href="/contempt.html">Contempt</a>
+    <a href="/credit-reporting.html" aria-current="page">Credit Reports</a>
     <a href="/what-is-not-covered.html">Exceptions</a>
-    <a href="https://1328f.com/check.html">Screener Tool</a>
+    <a href="/debt-collector.html">Collectors</a>
+    <a href="/employer-discrimination.html">Employers</a>
   </div>
 </nav>
 
@@ -248,9 +249,11 @@
   <div class="footer-links">
     <a href="/">Home</a>
     <a href="/violations.html">Violations</a>
-    <a href="/credit-reporting.html">Credit Reporting</a>
-    <a href="/contempt.html">Contempt Motions</a>
+    <a href="/contempt.html">Contempt</a>
+    <a href="/credit-reporting.html">Credit Reports</a>
     <a href="/what-is-not-covered.html">Exceptions</a>
+    <a href="/debt-collector.html">Collectors</a>
+    <a href="/employer-discrimination.html">Employers</a>
   </div>
   <div class="network-sites">
     <span>Open Bankruptcy Project:</span>
