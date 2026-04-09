@@ -1,17 +1,25 @@
-# dischargeinjunction.com
+# Discharge Injunction -- Section 524 Protection [2026]
+> The discharge injunction permanently bars creditors from collecting discharged debts. Learn your rights and how to enforce. 2026 guide.
 
-> Guide to the discharge injunction under 11 U.S.C. Section 524 -- permanent protection after bankruptcy.
+## About
+dischargeinjunction.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-dischargeinjunction.com is a free, open-source educational resource about the discharge injunction in bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://dischargeinjunction.com/: Overview of the discharge injunction -- permanent protection after bankruptcy
-- https://dischargeinjunction.com/violations.html: Discharge injunction violations -- when creditors collect on discharged debts
-- https://dischargeinjunction.com/contempt.html: Contempt actions for discharge injunction violations
-- https://dischargeinjunction.com/credit-reporting.html: Credit reporting after discharge -- your rights under the injunction
-- https://dischargeinjunction.com/what-is-not-covered.html: What the discharge injunction does not cover
+## Key Pages
+- Filing a Contempt Motion for Discharge Violations -- Discharge Injunction: https://dischargeinjunction.com/contempt.html
+- Discharged Debt Still on Your Credit Report -- How to Dispute -- Discharge Injunction: https://dischargeinjunction.com/credit-report-dispute.html
+- Discharged Debts on Your Credit Report -- Discharge Injunction: https://dischargeinjunction.com/credit-reporting.html
+- Debt Collector Calling After Bankruptcy Discharge -- Your Rights -- Discharge Injunction: https://dischargeinjunction.com/debt-collector.html
+- Employer Discrimination After Bankruptcy -- Section 525 -- Discharge Injunction: https://dischargeinjunction.com/employer-discrimination.html
+- Discharge Injunction -- Section 524 Protection: https://dischargeinjunction.com/
+- What Does the Bankruptcy Discharge Actually Cover? -- Discharge Injunction: https://dischargeinjunction.com/scope-of-discharge.html
+- Is There a Statute of Limitations on Discharge Injunction Violations?: https://dischargeinjunction.com/statute-of-limitations.html
+- Creditor Violating Your Discharge? What to Do -- Discharge Injunction: https://dischargeinjunction.com/violations.html
+- What the Discharge Injunction Does NOT Cover: https://dischargeinjunction.com/what-is-not-covered.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
