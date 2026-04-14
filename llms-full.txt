@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Filing a Contempt Motion for Discharge Violations -- Discharge Injunction
+## Filing a Contempt Motion for Discharge Violations - Discharge Injunction
 Source: https://dischargeinjunction.com/contempt.html
 
 Skip to main content
@@ -22,6 +22,8 @@ Exceptions
 Collectors
 Employers
 
+Home›Contempt Motions
+
 Part of the Open Bankruptcy Project
 
 Filing a Contempt Motion for Discharge Violations
@@ -36,7 +38,7 @@ A discharge was entered. You must show that the bankruptcy court entered a disch
 
 The creditor knew about the discharge. In most cases, this is established by showing the creditor was listed in the bankruptcy schedules and received notice. The Bankruptcy Noticing Center (BNC) mails the discharge order to all creditors, and the certificate of service is part of the court record.
 
-The creditor took action to collect the discharged debt. You must show that the creditor engaged in conduct that violated the injunction -- a phone call, letter, lawsuit, garnishment, credit reporting, or other collection activity directed at you personally for the discharged debt.
+The creditor took action to collect the discharged debt. You must show that the creditor engaged in conduct that violated the injunction - a phone call, letter, lawsuit, garnishment, credit reporting, or other collection activity directed at you personally for the discharged debt.
 
 The standard: Most courts apply a civil contempt standard, meaning you must prove the violation by clear and convincing evidence. Some circuits require only a preponderance of the evidence. The creditor's intent is relevant to the remedy (especially punitive damages) but generally not required to establish the violation itself. A creditor cannot escape liability simply by claiming they did not know about the discharge if they were properly noticed.
 
@@ -74,7 +76,7 @@ State the relief you are requesting (injunctive relief, actual damages, emotiona
 
 Step 4: Serve the Creditor
 
-The creditor must be served with the motion and notice of the hearing. Service requirements vary by district -- check your local bankruptcy rules for proper service methods.
+The creditor must be served with the motion and notice of the hearing. Service requirements vary by district - check your local bankruptcy rules for proper service methods.
 
 Step 5: The Hearing
 
@@ -112,7 +114,7 @@ The Eleventh Circuit confirmed that bankruptcy courts have inherent contempt pow
 
 In re Pratt, 462 F.3d 14 (1st Cir. 2006)
 
-The First Circuit held that even informal collection activity -- such as phone calls and letters that stop short of filing a lawsuit -- can violate the discharge injunction and support a contempt finding.
+The First Circuit held that even informal collection activity - such as phone calls and letters that stop short of filing a lawsuit - can violate the discharge injunction and support a contempt finding.
 
 Circuit splits exist. Courts disagree on some issues, including whether Section 524 creates a private right of action (most say yes, through contempt) and what standard of proof applies. The law in your circuit matters. An experienced consumer bankruptcy attorney will know how your local courts handle these issues.
 
@@ -120,7 +122,7 @@ Pro Se vs. Represented
 
 You have the right to file a contempt motion without an attorney (pro se). However, these cases can become complex, especially if the creditor is represented by counsel. Practical considerations:
 
-Pro se is viable for straightforward cases -- a single creditor, clear violation, good documentation. Courts are generally sympathetic to pro se debtors enforcing their discharge.
+Pro se is viable for straightforward cases - a single creditor, clear violation, good documentation. Courts are generally sympathetic to pro se debtors enforcing their discharge.
 
 An attorney is strongly recommended when the violations involve credit reporting (complex FCRA interplay), multiple creditors, or large potential damages.
 
@@ -145,13 +147,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -187,7 +189,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -239,7 +241,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## Discharged Debt Still on Your Credit Report -- How to Dispute -- Discharge Injunction
+## Discharged Debt Still on Your Credit Report - How to Dispute - Discharge Injunction
 Source: https://dischargeinjunction.com/credit-report-dispute.html
 
 Skip to main content
@@ -255,17 +257,19 @@ Exceptions
 Collectors
 Employers
 
+Home›Credit Report Dispute
+
 Part of the Open Bankruptcy Project
 
-Discharged Debt Still on Your Credit Report -- How to Dispute
+Discharged Debt Still on Your Credit Report - How to Dispute
 
-After your bankruptcy discharge, creditors are required to update their reporting to show discharged debts with a $0 balance. If your credit report still shows a balance on a discharged debt, that is likely inaccurate -- and you have the right to dispute it under federal law.
+After your bankruptcy discharge, creditors are required to update their reporting to show discharged debts with a $0 balance. If your credit report still shows a balance on a discharged debt, that is likely inaccurate - and you have the right to dispute it under federal law.
 
 How Discharged Debts Should Appear on Your Credit Report
 
 When a bankruptcy discharge is entered, each debt that was discharged should be updated on your credit report to reflect the following:
 
-Balance: $0 -- the discharged debt should show a zero balance, because you no longer owe it
+Balance: $0 - the discharged debt should show a zero balance, because you no longer owe it
 
 Status notation: "Discharged in bankruptcy," "Included in bankruptcy," or similar language indicating the debt was part of a bankruptcy case
 
@@ -283,11 +287,11 @@ The most common error: a discharged debt still shows a balance owed. This happen
 
 "Charged Off" Without Bankruptcy Notation
 
-Some creditors report a discharged debt as "charged off" without noting that it was discharged in bankruptcy. A charge-off with an outstanding balance looks like an unpaid, delinquent debt -- much worse for your credit score than a properly noted bankruptcy discharge. The correct reporting is "discharged in bankruptcy" with a $0 balance.
+Some creditors report a discharged debt as "charged off" without noting that it was discharged in bankruptcy. A charge-off with an outstanding balance looks like an unpaid, delinquent debt - much worse for your credit score than a properly noted bankruptcy discharge. The correct reporting is "discharged in bankruptcy" with a $0 balance.
 
 Duplicate Entries
 
-Sometimes a discharged debt appears multiple times on your credit report -- once under the original creditor and again under a collection agency or debt buyer. Both entries may show balances due. This double-counting further depresses your credit score and is inaccurate.
+Sometimes a discharged debt appears multiple times on your credit report - once under the original creditor and again under a collection agency or debt buyer. Both entries may show balances due. This double-counting further depresses your credit score and is inaccurate.
 
 Debt Reappearing After Correction
 
@@ -305,11 +309,11 @@ Step 1: Get Your Credit Reports
 
 You are entitled to one free credit report per year from each of the three major bureaus through AnnualCreditReport.com (the only federally authorized source). Pull all three reports because creditors do not always report to all three bureaus, and the errors may differ.
 
-Equifax -- equifax.com
+Equifax - equifax.com
 
-Experian -- experian.com
+Experian - experian.com
 
-TransUnion -- transunion.com
+TransUnion - transunion.com
 
 Review each report carefully. For every discharged debt, check that the balance is $0 and the account is noted as included in or discharged through bankruptcy.
 
@@ -345,7 +349,7 @@ Send to each bureau separately. If the error appears on reports from multiple bu
 
 Step 3: Dispute with the Furnisher
 
-In addition to disputing with the credit bureaus, you can (and should) dispute directly with the "furnisher" -- the creditor or collector reporting the inaccurate information. Under FCRA Section 623(a)(8), a furnisher that receives a direct dispute must investigate and correct any inaccurate information. Send the furnisher the same documentation you sent the bureau.
+In addition to disputing with the credit bureaus, you can (and should) dispute directly with the "furnisher" - the creditor or collector reporting the inaccurate information. Under FCRA Section 623(a)(8), a furnisher that receives a direct dispute must investigate and correct any inaccurate information. Send the furnisher the same documentation you sent the bureau.
 
 Disputing with both the bureau and the furnisher creates parallel pressure and increases the likelihood of a timely correction.
 
@@ -373,7 +377,7 @@ When the Bureau Does Not Fix It
 
 Add a Consumer Statement
 
-Under FCRA Section 611(b), you have the right to add a brief statement to your credit file explaining the dispute. This statement must be included in future reports. However, consumer statements have limited practical impact -- many lenders use automated systems that do not read them.
+Under FCRA Section 611(b), you have the right to add a brief statement to your credit file explaining the dispute. This statement must be included in future reports. However, consumer statements have limited practical impact - many lenders use automated systems that do not read them.
 
 File a CFPB Complaint
 
@@ -383,13 +387,13 @@ Consult an FCRA Attorney
 
 If the bureau and furnisher refuse to correct clearly inaccurate information, you may have a claim under the FCRA. You can sue for:
 
-Actual damages -- including denied credit, higher interest rates, emotional distress, and lost opportunities caused by the inaccurate reporting
+Actual damages - including denied credit, higher interest rates, emotional distress, and lost opportunities caused by the inaccurate reporting
 
-Statutory damages -- $100 to $1,000 per violation for willful noncompliance (15 U.S.C. Section 1681n)
+Statutory damages - $100 to $1,000 per violation for willful noncompliance (15 U.S.C. Section 1681n)
 
-Punitive damages -- available for willful violations
+Punitive damages - available for willful violations
 
-Attorney fees and costs -- the losing party pays your attorney, which is why many FCRA attorneys take cases on contingency
+Attorney fees and costs - the losing party pays your attorney, which is why many FCRA attorneys take cases on contingency
 
 File a Contempt Motion
 
@@ -415,15 +419,15 @@ Not legal advice. This page provides general information about disputing credit 
 
 Related Resources
 
-Credit Reporting After Discharge -- how the discharge injunction applies to credit reporting
+Credit Reporting After Discharge - how the discharge injunction applies to credit reporting
 
-Discharge Injunction Violations -- identifying and responding to all types of violations
+Discharge Injunction Violations - identifying and responding to all types of violations
 
-Filing a Contempt Motion -- how to enforce the discharge injunction in court
+Filing a Contempt Motion - how to enforce the discharge injunction in court
 
-Fresh Start After Bankruptcy -- rebuilding credit and financial life after discharge
+Fresh Start After Bankruptcy - rebuilding credit and financial life after discharge
 
-Nondischargeable Debts -- which debts survive bankruptcy and why they may still appear on your report
+Nondischargeable Debts - which debts survive bankruptcy and why they may still appear on your report
 
 Related Guides
 
@@ -435,18 +439,22 @@ Bankruptcy Discharge Guide
 
 Section 1328 Discharge
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -482,7 +490,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -538,7 +546,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Discharged Debts on Your Credit Report -- Discharge Injunction
+## Discharged Debts on Your Credit Report - Discharge Injunction
 Source: https://dischargeinjunction.com/credit-reporting.html
 
 Skip to main content
@@ -553,6 +561,8 @@ Credit Reports
 Exceptions
 Collectors
 Employers
+
+Home›Credit Reporting
 
 Part of the Open Bankruptcy Project
 
@@ -594,7 +604,7 @@ These are the most frequent credit reporting errors debtors encounter after disc
 
 Balance not zeroed out. The most common problem. The creditor's automated system never updates the balance to $0 after the discharge. The debt continues to appear as owing the original or last-known balance.
 
-New collection tradeline. The original creditor sells the debt to a debt buyer after the bankruptcy. The buyer opens a new tradeline on your credit report, making it appear you have a new collection account -- even though the debt was discharged.
+New collection tradeline. The original creditor sells the debt to a debt buyer after the bankruptcy. The buyer opens a new tradeline on your credit report, making it appear you have a new collection account - even though the debt was discharged.
 
 Continued delinquency reporting. The account keeps accruing "late" marks month after month, even though no payment is or could be due. This progressively damages your credit score.
 
@@ -646,13 +656,13 @@ FCRA Damages
 
 If a creditor or credit bureau willfully or negligently fails to correct inaccurate reporting of a discharged debt, you may be entitled to damages under the FCRA:
 
-Actual damages -- Financial harm caused by the inaccurate reporting (denied credit, higher interest rates, lost housing or employment)
+Actual damages - Financial harm caused by the inaccurate reporting (denied credit, higher interest rates, lost housing or employment)
 
-Statutory damages -- $100 to $1,000 per willful violation, even without proving actual harm
+Statutory damages - $100 to $1,000 per willful violation, even without proving actual harm
 
-Punitive damages -- Available for willful violations
+Punitive damages - Available for willful violations
 
-Attorney fees and costs -- The court can require the violator to pay your legal fees
+Attorney fees and costs - The court can require the violator to pay your legal fees
 
 These FCRA remedies are in addition to any damages available through a contempt motion in bankruptcy court for violating the Section 524 discharge injunction.
 
@@ -675,13 +685,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -717,7 +727,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -769,7 +779,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Debt Collector Calling After Bankruptcy Discharge -- Your Rights -- Discharge Injunction
+## Debt Collector Calling After Bankruptcy Discharge - Your Rights - Discharge Injunction
 Source: https://dischargeinjunction.com/debt-collector.html
 
 Skip to main content
@@ -785,19 +795,21 @@ Exceptions
 Collectors
 Employers
 
+Home›Debt Collectors
+
 Part of the Open Bankruptcy Project
 
-Debt Collector Calling After Bankruptcy Discharge -- Your Rights
+Debt Collector Calling After Bankruptcy Discharge - Your Rights
 
-If a debt collector is calling you about a debt that was discharged in bankruptcy, they are likely violating a permanent federal court order. The discharge injunction under 11 U.S.C. Section 524(a)(2) makes it illegal to collect on discharged debts -- and you have remedies.
+If a debt collector is calling you about a debt that was discharged in bankruptcy, they are likely violating a permanent federal court order. The discharge injunction under 11 U.S.C. Section 524(a)(2) makes it illegal to collect on discharged debts - and you have remedies.
 
 The Discharge Injunction Bars All Collection Activity
 
-When a bankruptcy court enters a discharge order, Section 524(a)(2) of the Bankruptcy Code imposes a permanent injunction that prohibits "an act, to collect, recover or offset any [discharged] debt as a personal liability of the debtor." This injunction operates automatically -- no separate motion or court order is needed. It takes effect the moment the discharge is entered and lasts forever.
+When a bankruptcy court enters a discharge order, Section 524(a)(2) of the Bankruptcy Code imposes a permanent injunction that prohibits "an act, to collect, recover or offset any [discharged] debt as a personal liability of the debtor." This injunction operates automatically - no separate motion or court order is needed. It takes effect the moment the discharge is entered and lasts forever.
 
 The scope of this prohibition is broad. It covers phone calls, letters, emails, text messages, lawsuits, garnishment attempts, threats to repossess property, negative credit reporting, and any other act designed to collect the debt from you personally. It applies to the original creditor, any successor, any assignee, and any debt collector who purchased the debt.
 
-A creditor or collector who violates this injunction is not just breaking a rule -- they are violating a federal court order. The bankruptcy court has the power to hold violators in contempt, impose sanctions, and award damages to the debtor.
+A creditor or collector who violates this injunction is not just breaking a rule - they are violating a federal court order. The bankruptcy court has the power to hold violators in contempt, impose sanctions, and award damages to the debtor.
 
 Why Debt Collectors Still Call
 
@@ -805,21 +817,21 @@ Despite the clear prohibition, many debtors receive collection calls months or e
 
 The Zombie Debt Problem
 
-One of the most common reasons is the "zombie debt" phenomenon. After a debt is charged off or discharged in bankruptcy, the original creditor often sells the account to a debt buyer -- a company that purchases portfolios of delinquent accounts for pennies on the dollar. These debt buyers may then sell the accounts again to other buyers, creating a chain of ownership that can stretch through multiple companies over many years.
+One of the most common reasons is the "zombie debt" phenomenon. After a debt is charged off or discharged in bankruptcy, the original creditor often sells the account to a debt buyer - a company that purchases portfolios of delinquent accounts for pennies on the dollar. These debt buyers may then sell the accounts again to other buyers, creating a chain of ownership that can stretch through multiple companies over many years.
 
-At each stage of this chain, the information about the bankruptcy discharge can be lost, corrupted, or simply ignored. A junk debt buyer operating out of a call center may have nothing more than a spreadsheet with your name, phone number, and an amount allegedly owed. They may have no idea -- or no interest in knowing -- that the debt was discharged in bankruptcy.
+At each stage of this chain, the information about the bankruptcy discharge can be lost, corrupted, or simply ignored. A junk debt buyer operating out of a call center may have nothing more than a spreadsheet with your name, phone number, and an amount allegedly owed. They may have no idea - or no interest in knowing - that the debt was discharged in bankruptcy.
 
 The Federal Trade Commission and the Consumer Financial Protection Bureau (CFPB) have both documented the problems with the debt buying industry. In a 2013 FTC study, the agency found that debt buyers frequently lacked documentation of the debts they were collecting and often could not even verify basic account information. The CFPB has brought enforcement actions against debt buyers who collected on debts they knew or should have known were discharged in bankruptcy.
 
 Creditor Negligence or Defiance
 
-Some creditors -- including large banks and loan servicers -- continue collection activity because their internal systems are poorly designed. The department handling collections may not communicate with the department that receives bankruptcy notices. Automated collection systems may continue generating calls and letters even after a bankruptcy flag has been added to the account.
+Some creditors - including large banks and loan servicers - continue collection activity because their internal systems are poorly designed. The department handling collections may not communicate with the department that receives bankruptcy notices. Automated collection systems may continue generating calls and letters even after a bankruptcy flag has been added to the account.
 
 In some cases, the creditor's conduct is more deliberate. They may take the position that the debt was not actually discharged (for example, by claiming it falls under a Section 523(a) exception) without having obtained a court determination to that effect. Or they may attempt to pressure the debtor into paying voluntarily, knowing that many people will pay to make the calls stop rather than fight.
 
 Confusion About Secured Debts
 
-Some post-discharge collection activity involves secured debts where the creditor has a lien on property. The discharge injunction eliminates your personal liability for the debt -- meaning the creditor cannot sue you or garnish your wages. However, liens generally survive bankruptcy (they "pass through" the discharge), and the creditor retains the right to enforce the lien against the collateral itself. If a secured creditor is contacting you about surrendering collateral or exercising lien rights, that may be permissible -- but demands for payment of a deficiency or personal liability are not.
+Some post-discharge collection activity involves secured debts where the creditor has a lien on property. The discharge injunction eliminates your personal liability for the debt - meaning the creditor cannot sue you or garnish your wages. However, liens generally survive bankruptcy (they "pass through" the discharge), and the creditor retains the right to enforce the lien against the collateral itself. If a secured creditor is contacting you about surrendering collateral or exercising lien rights, that may be permissible - but demands for payment of a deficiency or personal liability are not.
 
 Your Rights: Two Layers of Protection
 
@@ -829,27 +841,27 @@ Layer 1: The Discharge Injunction (Section 524)
 
 The discharge injunction is enforced through the bankruptcy court's contempt power. If a creditor or collector violates the injunction, you can file a motion for contempt in the bankruptcy court that issued your discharge. The court can award:
 
-Actual damages -- compensation for out-of-pocket losses, including fees you incurred responding to the illegal collection
+Actual damages - compensation for out-of-pocket losses, including fees you incurred responding to the illegal collection
 
-Emotional distress damages -- courts regularly award these for the stress, anxiety, and disruption caused by post-discharge collection
+Emotional distress damages - courts regularly award these for the stress, anxiety, and disruption caused by post-discharge collection
 
-Punitive damages -- available for willful, egregious, or bad-faith violations
+Punitive damages - available for willful, egregious, or bad-faith violations
 
-Attorney fees and costs -- the creditor may be ordered to pay your legal expenses
+Attorney fees and costs - the creditor may be ordered to pay your legal expenses
 
-Injunctive relief -- a specific court order directing the creditor to stop
+Injunctive relief - a specific court order directing the creditor to stop
 
-Under the U.S. Supreme Court's decision in Taggart v. Lorenzen, 139 S. Ct. 1795 (2019), a creditor can be held in contempt if there was no "fair ground of doubt" about whether the conduct violated the discharge order. This is an objective standard -- it does not matter whether the creditor intended to violate the injunction.
+Under the U.S. Supreme Court's decision in Taggart v. Lorenzen, 139 S. Ct. 1795 (2019), a creditor can be held in contempt if there was no "fair ground of doubt" about whether the conduct violated the discharge order. This is an objective standard - it does not matter whether the creditor intended to violate the injunction.
 
 Layer 2: The Fair Debt Collection Practices Act (FDCPA)
 
-If the entity contacting you is a "debt collector" under the FDCPA (15 U.S.C. Section 1692 et seq.) -- meaning a third-party collector or debt buyer, not the original creditor -- you have additional federal statutory rights. The FDCPA prohibits debt collectors from engaging in unfair, deceptive, or abusive practices, and collecting on a debt discharged in bankruptcy can violate several FDCPA provisions:
+If the entity contacting you is a "debt collector" under the FDCPA (15 U.S.C. Section 1692 et seq.) - meaning a third-party collector or debt buyer, not the original creditor - you have additional federal statutory rights. The FDCPA prohibits debt collectors from engaging in unfair, deceptive, or abusive practices, and collecting on a debt discharged in bankruptcy can violate several FDCPA provisions:
 
-Section 1692e -- prohibits false, deceptive, or misleading representations, including misrepresenting the legal status of a debt
+Section 1692e - prohibits false, deceptive, or misleading representations, including misrepresenting the legal status of a debt
 
-Section 1692e(2)(A) -- prohibits falsely representing the character, amount, or legal status of a debt
+Section 1692e(2)(A) - prohibits falsely representing the character, amount, or legal status of a debt
 
-Section 1692f -- prohibits unfair or unconscionable practices in debt collection
+Section 1692f - prohibits unfair or unconscionable practices in debt collection
 
 The FDCPA allows you to sue in federal district court (not bankruptcy court) and recover:
 
@@ -869,7 +881,7 @@ Step 1: Confirm the Debt Was Discharged
 
 Before taking action, verify that the debt at issue was actually discharged. Pull up your bankruptcy case on PACER or contact the court clerk. Check the discharge order and your schedules. In a no-asset Chapter 7 case, virtually all pre-petition debts are discharged, even if the creditor was not listed in the schedules (in most circuits). In Chapter 13, the discharge covers debts provided for in the plan plus those that were dischargeable under Section 1328.
 
-If the debt is a type that is potentially nondischargeable under Section 523(a) -- such as certain tax debts, student loans, debts from fraud, or domestic support obligations -- the analysis is more complicated. A debt is not nondischargeable just because it falls into one of these categories; in many cases, the creditor must file an adversary proceeding and obtain a court determination of nondischargeability. If no such determination was made, the debt is discharged.
+If the debt is a type that is potentially nondischargeable under Section 523(a) - such as certain tax debts, student loans, debts from fraud, or domestic support obligations - the analysis is more complicated. A debt is not nondischargeable just because it falls into one of these categories; in many cases, the creditor must file an adversary proceeding and obtain a court determination of nondischargeability. If no such determination was made, the debt is discharged.
 
 Step 2: Document Everything
 
@@ -883,7 +895,7 @@ Text messages: Screenshot them with timestamps visible.
 
 Credit reports: Pull your reports from all three bureaus (Equifax, Experian, TransUnion) and flag any accounts that show a balance or collection status for discharged debts.
 
-Emotional impact: Keep a journal of how the contacts affected you -- stress, anxiety, lost sleep, embarrassment, fear of legal action. Courts award emotional distress damages, and contemporaneous notes are strong evidence.
+Emotional impact: Keep a journal of how the contacts affected you - stress, anxiety, lost sleep, embarrassment, fear of legal action. Courts award emotional distress damages, and contemporaneous notes are strong evidence.
 
 Step 3: Send a Written Cease-and-Desist Notice
 
@@ -901,7 +913,7 @@ A demand that all collection activity cease immediately
 
 A statement that you will seek contempt sanctions and FDCPA damages if the violations continue
 
-This letter serves two purposes. First, under the FDCPA, a written cease-and-desist request requires the collector to stop communicating with you (with limited exceptions). Second, it eliminates any future argument that the collector did not know about the discharge -- after receiving your letter, there is no "fair ground of doubt."
+This letter serves two purposes. First, under the FDCPA, a written cease-and-desist request requires the collector to stop communicating with you (with limited exceptions). Second, it eliminates any future argument that the collector did not know about the discharge - after receiving your letter, there is no "fair ground of doubt."
 
 Step 4: Consult an Attorney if Violations Continue
 
@@ -913,7 +925,7 @@ Step 5: File a Complaint with the CFPB
 
 In addition to legal action, file a complaint with the Consumer Financial Protection Bureau at consumerfinance.gov/complaint. The CFPB tracks complaints against debt collectors and can take enforcement action against repeat offenders. Your complaint also creates a public record that can help other consumers.
 
-Common Collector Tactics -- and Why They Do Not Work
+Common Collector Tactics - and Why They Do Not Work
 
 "You agreed to pay this debt"
 
@@ -925,11 +937,11 @@ In a no-asset Chapter 7 case, the failure to list a debt on the schedules does n
 
 "We bought this debt, so the discharge does not apply to us"
 
-The discharge injunction runs with the debt, not with the creditor. When a debt buyer purchases a discharged debt, the injunction binds the buyer just as it bound the original creditor. The buyer steps into the shoes of the original creditor and is subject to all the same restrictions. Ignorance of the discharge is not a defense -- the buyer has a duty to investigate before attempting to collect.
+The discharge injunction runs with the debt, not with the creditor. When a debt buyer purchases a discharged debt, the injunction binds the buyer just as it bound the original creditor. The buyer steps into the shoes of the original creditor and is subject to all the same restrictions. Ignorance of the discharge is not a defense - the buyer has a duty to investigate before attempting to collect.
 
 "We are just updating our records, not collecting"
 
-Courts look at the substance of the communication, not the label. If the communication demands payment, states a balance due, threatens consequences for nonpayment, or is designed to pressure the debtor into paying, it is a collection activity -- regardless of what the collector calls it.
+Courts look at the substance of the communication, not the label. If the communication demands payment, states a balance due, threatens consequences for nonpayment, or is designed to pressure the debtor into paying, it is a collection activity - regardless of what the collector calls it.
 
 The Special Problem of Credit Reporting
 
@@ -941,15 +953,15 @@ Not legal advice. This page provides general information about your rights when 
 
 Related Resources
 
-Discharge Injunction Violations -- how to identify, document, and respond
+Discharge Injunction Violations - how to identify, document, and respond
 
-Filing a Contempt Motion -- the procedure for enforcing the discharge injunction in court
+Filing a Contempt Motion - the procedure for enforcing the discharge injunction in court
 
-Automatic Stay Violations -- your rights during the bankruptcy case (before discharge)
+Automatic Stay Violations - your rights during the bankruptcy case (before discharge)
 
-Nondischargeable Debts -- which debts survive bankruptcy
+Nondischargeable Debts - which debts survive bankruptcy
 
-Fresh Start After Bankruptcy -- rebuilding your financial life after discharge
+Fresh Start After Bankruptcy - rebuilding your financial life after discharge
 
 Related Guides
 
@@ -966,13 +978,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1008,7 +1020,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -1064,7 +1076,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Employer Discrimination After Bankruptcy -- Section 525 -- Discharge Injunction
+## Employer Discrimination After Bankruptcy - Section 525 - Discharge Injunction
 Source: https://dischargeinjunction.com/employer-discrimination.html
 
 Skip to main content
@@ -1080,11 +1092,13 @@ Exceptions
 Collectors
 Employers
 
+Home›Employer Discrimination
+
 Part of the Open Bankruptcy Project
 
-Employer Discrimination After Bankruptcy -- Section 525
+Employer Discrimination After Bankruptcy - Section 525
 
-Filing for bankruptcy is supposed to give you a fresh start -- but that fresh start means little if an employer can fire you or refuse to hire you because of it. Section 525 of the Bankruptcy Code provides protections against discrimination, but the scope of those protections depends on whether you work for the government or a private employer.
+Filing for bankruptcy is supposed to give you a fresh start - but that fresh start means little if an employer can fire you or refuse to hire you because of it. Section 525 of the Bankruptcy Code provides protections against discrimination, but the scope of those protections depends on whether you work for the government or a private employer.
 
 Section 525(a): Government Employers
 
@@ -1098,7 +1112,7 @@ Discriminate with respect to employment against a person
 
 ...solely because that person is or has been a debtor under the Bankruptcy Code, was insolvent before or during a bankruptcy case, or has not paid a debt that is dischargeable or was discharged in bankruptcy.
 
-The word "solely" is important. The government cannot use your bankruptcy filing as the reason for an adverse employment action. However, if there are legitimate, independent reasons for the action -- such as poor job performance, misconduct, or failure to meet qualifications -- the employer can act on those grounds even if you have also filed bankruptcy.
+The word "solely" is important. The government cannot use your bankruptcy filing as the reason for an adverse employment action. However, if there are legitimate, independent reasons for the action - such as poor job performance, misconduct, or failure to meet qualifications - the employer can act on those grounds even if you have also filed bankruptcy.
 
 "Governmental unit" is defined broadly under 11 U.S.C. Section 101(27). It includes federal, state, and local government agencies, departments, instrumentalities, and officers. This covers military employment, federal civilian positions, state government jobs, county and municipal employment, public school districts, public universities, and similar entities.
 
@@ -1106,15 +1120,15 @@ Licensing and Professional Permits
 
 Section 525(a) also protects against discrimination in the granting, maintenance, and renewal of government-issued licenses, permits, charters, and franchises. This is critically important for professionals whose livelihoods depend on government-issued credentials:
 
-Law licenses -- a state bar cannot deny admission or revoke a license solely because an attorney filed bankruptcy
+Law licenses - a state bar cannot deny admission or revoke a license solely because an attorney filed bankruptcy
 
-Medical licenses -- state medical boards cannot use a bankruptcy filing as the sole basis for discipline
+Medical licenses - state medical boards cannot use a bankruptcy filing as the sole basis for discipline
 
-Real estate licenses -- state real estate commissions cannot deny or revoke a license solely due to bankruptcy
+Real estate licenses - state real estate commissions cannot deny or revoke a license solely due to bankruptcy
 
-Commercial driver's licenses -- the DMV cannot revoke your CDL because you filed bankruptcy
+Commercial driver's licenses - the DMV cannot revoke your CDL because you filed bankruptcy
 
-Business permits -- city and county licensing authorities cannot deny permits solely based on a bankruptcy filing
+Business permits - city and county licensing authorities cannot deny permits solely based on a bankruptcy filing
 
 The protection extends to student loans and financial aid as well. Government-backed student loan programs cannot deny eligibility based on a prior bankruptcy filing. See Leary v. Warnaco, Inc., 251 B.R. 656 (S.D.N.Y. 2000), for a discussion of the broad scope of Section 525(a).
 
@@ -1134,33 +1148,33 @@ The Hiring Gap: Can Private Employers Refuse to Hire You?
 
 Because Section 525(b) mentions "terminate" and "discriminate with respect to employment" but not "deny employment," most federal circuit courts have held that private employers may refuse to hire an applicant based on bankruptcy status. The leading cases include:
 
-Rea v. Federated Investors, 627 F.3d 937 (3d Cir. 2010) -- the Third Circuit held that Section 525(b) does not prohibit private employers from denying employment based on bankruptcy, finding the omission of "deny employment" was intentional by Congress
+Rea v. Federated Investors, 627 F.3d 937 (3d Cir. 2010) - the Third Circuit held that Section 525(b) does not prohibit private employers from denying employment based on bankruptcy, finding the omission of "deny employment" was intentional by Congress
 
-Myers v. TooJay's Management Corp., 640 F.3d 1278 (11th Cir. 2011) -- the Eleventh Circuit reached the same conclusion, relying on the plain text of the statute
+Myers v. TooJay's Management Corp., 640 F.3d 1278 (11th Cir. 2011) - the Eleventh Circuit reached the same conclusion, relying on the plain text of the statute
 
-Burnett v. Stewart Enterprises, Inc., 2012 WL 12886018 (E.D. La. 2012) -- following the Fifth Circuit's approach, applying the textual distinction
+Burnett v. Stewart Enterprises, Inc., 2012 WL 12886018 (E.D. La. 2012) - following the Fifth Circuit's approach, applying the textual distinction
 
-A minority of courts -- including some bankruptcy courts and the Ninth Circuit BAP -- have held that "discriminate with respect to employment" should be read broadly enough to encompass hiring decisions. See In re Fiorani, 2010 WL 3895359 (Bankr. E.D. Va. 2010). But this is the minority position.
+A minority of courts - including some bankruptcy courts and the Ninth Circuit BAP - have held that "discriminate with respect to employment" should be read broadly enough to encompass hiring decisions. See In re Fiorani, 2010 WL 3895359 (Bankr. E.D. Va. 2010). But this is the minority position.
 
-Practical impact: In most of the country, a private employer can legally run a credit check on job applicants and decline to hire someone because of a bankruptcy filing. This creates a painful irony: the very act of seeking a fresh start through bankruptcy can make it harder to get the job you need to rebuild. Several states have responded by passing laws restricting employer use of credit checks in hiring -- see the state law section below.
+Practical impact: In most of the country, a private employer can legally run a credit check on job applicants and decline to hire someone because of a bankruptcy filing. This creates a painful irony: the very act of seeking a fresh start through bankruptcy can make it harder to get the job you need to rebuild. Several states have responded by passing laws restricting employer use of credit checks in hiring - see the state law section below.
 
 What Counts as Discrimination?
 
 Discrimination under Section 525 goes beyond firing. Courts have found the following actions to constitute prohibited discrimination:
 
-Demotion -- reducing an employee's position, title, or responsibilities
+Demotion - reducing an employee's position, title, or responsibilities
 
-Pay reduction -- cutting wages or eliminating bonuses because of a bankruptcy filing
+Pay reduction - cutting wages or eliminating bonuses because of a bankruptcy filing
 
-Denial of promotion -- passing over a qualified employee for advancement
+Denial of promotion - passing over a qualified employee for advancement
 
-Hostile work environment -- creating intolerable working conditions to force resignation
+Hostile work environment - creating intolerable working conditions to force resignation
 
-Transfer -- reassigning an employee to a less desirable position or location
+Transfer - reassigning an employee to a less desirable position or location
 
-Reduced hours -- cutting an employee's schedule to pressure them to resign
+Reduced hours - cutting an employee's schedule to pressure them to resign
 
-Revocation of job offer -- withdrawing an accepted offer of employment (this may fall under Section 525(b) even though initial hiring may not, because the employment relationship has arguably begun)
+Revocation of job offer - withdrawing an accepted offer of employment (this may fall under Section 525(b) even though initial hiring may not, because the employment relationship has arguably begun)
 
 How to Prove Discrimination
 
@@ -1170,7 +1184,7 @@ Timing. If the adverse action occurred shortly after the employer learned of the
 
 Statements. Comments by supervisors, HR personnel, or coworkers referencing the bankruptcy in connection with the employment decision.
 
-Pretextual reasons. If the employer gives a reason for the action that does not hold up under scrutiny -- for example, claiming poor performance when your reviews were positive -- the court may infer the real reason was the bankruptcy.
+Pretextual reasons. If the employer gives a reason for the action that does not hold up under scrutiny - for example, claiming poor performance when your reviews were positive - the court may infer the real reason was the bankruptcy.
 
 Disparate treatment. If other employees in similar situations who did not file bankruptcy were treated more favorably, this supports a discrimination claim.
 
@@ -1198,21 +1212,21 @@ State Laws That Add Protection
 
 Recognizing the gap in federal law regarding private employer hiring, several states have enacted their own protections. These laws vary but generally restrict employers from using credit history (including bankruptcy) as a factor in hiring decisions:
 
-California -- Labor Code Section 1024.5 prohibits most private employers from using credit reports in hiring, with exceptions for certain financial and government positions
+California - Labor Code Section 1024.5 prohibits most private employers from using credit reports in hiring, with exceptions for certain financial and government positions
 
-Colorado -- Employment Opportunity Act limits employer use of credit information
+Colorado - Employment Opportunity Act limits employer use of credit information
 
-Connecticut -- Public Act 11-223 restricts employer credit checks
+Connecticut - Public Act 11-223 restricts employer credit checks
 
-Hawaii -- Act 158 limits credit checks to certain positions
+Hawaii - Act 158 limits credit checks to certain positions
 
-Illinois -- Employee Credit Privacy Act restricts employer use of credit history
+Illinois - Employee Credit Privacy Act restricts employer use of credit history
 
-Maryland -- Job Applicant Fairness Act limits credit checks
+Maryland - Job Applicant Fairness Act limits credit checks
 
-Nevada, Oregon, Vermont, Washington -- similar restrictions with varying exceptions
+Nevada, Oregon, Vermont, Washington - similar restrictions with varying exceptions
 
-New York City, Chicago, Philadelphia -- local ordinances restricting credit checks in hiring
+New York City, Chicago, Philadelphia - local ordinances restricting credit checks in hiring
 
 These state laws typically include exceptions for positions that involve access to financial information, fiduciary duties, large amounts of cash, or sensitive data. Check your state's specific law for details.
 
@@ -1232,13 +1246,13 @@ Not legal advice. This page provides general information about employer discrimi
 
 Related Resources
 
-Discharge Injunction Overview -- what the discharge means and how it works
+Discharge Injunction Overview - what the discharge means and how it works
 
-Discharge Violations -- how to identify and respond to violations
+Discharge Violations - how to identify and respond to violations
 
-Fresh Start After Bankruptcy -- rebuilding your life and credit after discharge
+Fresh Start After Bankruptcy - rebuilding your life and credit after discharge
 
-Pro Se Debtors -- resources for navigating bankruptcy without an attorney
+Pro Se Debtors - resources for navigating bankruptcy without an attorney
 
 Related Guides
 
@@ -1255,13 +1269,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1297,7 +1311,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -1353,7 +1367,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Discharge Injunction -- Section 524 Protection [2026]
+## Discharge Injunction - Section 524 Protection [2026]
 Source: https://dischargeinjunction.com/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1371,23 +1385,23 @@ Exceptions
 Collectors
 Employers
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Discharge Injunction
 
-A plain-language guide to 11 U.S.C. Section 524 -- the permanent federal injunction that prohibits creditors from ever collecting on debts that were discharged in bankruptcy.
+A plain-language guide to 11 U.S.C. Section 524 - the permanent federal injunction that prohibits creditors from ever collecting on debts that were discharged in bankruptcy.
 
 What Is the Discharge Injunction?
 
-The discharge injunction is the enforcement mechanism behind the bankruptcy discharge. When a court enters a discharge order, Section 524(a)(2) imposes a permanent injunction that prohibits any act to collect, recover, or offset a discharged debt as a personal liability of the debtor. This injunction operates as a matter of law -- no separate motion is needed.
+The discharge injunction is the enforcement mechanism behind the bankruptcy discharge. When a court enters a discharge order, Section 524(a)(2) imposes a permanent injunction that prohibits any act to collect, recover, or offset a discharged debt as a personal liability of the debtor. This injunction operates as a matter of law - no separate motion is needed.
 
-Creditors who violate the discharge injunction by continuing to collect on discharged debts can face contempt of court, sanctions, and damages. Courts have awarded actual damages, emotional distress damages, attorney fees, and punitive damages for willful violations. The discharge injunction is one of the most important protections in all of bankruptcy law -- it is what makes the "fresh start" real.
+Creditors who violate the discharge injunction by continuing to collect on discharged debts can face contempt of court, sanctions, and damages. Courts have awarded actual damages, emotional distress damages, attorney fees, and punitive damages for willful violations. The discharge injunction is one of the most important protections in all of bankruptcy law - it is what makes the "fresh start" real.
 
-Section 524 also addresses reaffirmation agreements -- voluntary agreements by debtors to remain liable on specific debts despite the discharge. These agreements must meet strict procedural requirements, including court approval in many cases, and can be rescinded within 60 days.
+Section 524 also addresses reaffirmation agreements - voluntary agreements by debtors to remain liable on specific debts despite the discharge. These agreements must meet strict procedural requirements, including court approval in many cases, and can be rescinded within 60 days.
 
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
 
-Discharge injunction violations -- what constitutes a violation, how to document it, how to file a motion for contempt, and the damages available. We will include real examples of creditor behavior that courts have found to violate the injunction, from collection calls to negative credit reporting to lawsuits on discharged debts.
+Discharge injunction violations - what constitutes a violation, how to document it, how to file a motion for contempt, and the damages available. We will include real examples of creditor behavior that courts have found to violate the injunction, from collection calls to negative credit reporting to lawsuits on discharged debts.
 
 Reaffirmation agreements under Section 524(c) and (d), including when they make sense, when they do not, the procedural requirements, and the rescission window. We will also cover the court's role in approving reaffirmation agreements for unrepresented debtors.
 
@@ -1420,24 +1434,24 @@ Subscribe
 
 Related Resources
 
-Section 523(a) nondischargeable debts -- Which debts survive bankruptcy under Section 523(a)
+Section 523(a) nondischargeable debts - Which debts survive bankruptcy under Section 523(a)
 
-debts that cannot be discharged -- Complete guide to debts that survive bankruptcy
+debts that cannot be discharged - Complete guide to debts that survive bankruptcy
 
-Fresh Start After Bankruptcy -- Rebuilding your financial life after discharge
+Fresh Start After Bankruptcy - Rebuilding your financial life after discharge
 
 Further Reading & Resources
 
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1473,7 +1487,7 @@ bankruptcydenied.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Rebuild Your Credit
 
@@ -1618,11 +1632,14 @@ dischargeinjunction.com
 prosedebtors.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1644,7 +1661,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## What Does the Bankruptcy Discharge Actually Cover? -- Discharge Injunction
+## What Does the Bankruptcy Discharge Actually Cover? - Discharge Injunction
 Source: https://dischargeinjunction.com/scope-of-discharge.html
 
 Skip to main content
@@ -1660,11 +1677,13 @@ Exceptions
 Collectors
 Employers
 
+Home›Scope of Discharge
+
 Part of the Open Bankruptcy Project
 
 What Does the Bankruptcy Discharge Actually Cover?
 
-The bankruptcy discharge is one of the most powerful protections in American law -- but it is not unlimited. Understanding exactly what the discharge does and does not do is essential for protecting your rights after bankruptcy.
+The bankruptcy discharge is one of the most powerful protections in American law - but it is not unlimited. Understanding exactly what the discharge does and does not do is essential for protecting your rights after bankruptcy.
 
 What the Discharge Does: Eliminates Personal Liability
 
@@ -1680,7 +1699,7 @@ No negative credit reporting. Creditors must update their reporting to show a $0
 
 No setoff. Creditors cannot offset a discharged debt against amounts they owe you (with limited exceptions).
 
-In legal terms, the discharge eliminates your "in personam" liability -- liability that attaches to you as a person. After discharge, the creditor has no claim against you, your future income, or your future assets for the discharged debt.
+In legal terms, the discharge eliminates your "in personam" liability - liability that attaches to you as a person. After discharge, the creditor has no claim against you, your future income, or your future assets for the discharged debt.
 
 What the Discharge Does Not Do
 
@@ -1688,7 +1707,7 @@ The discharge is powerful but has clear limits. Understanding these limits is ju
 
 1. Liens Survive the Discharge
 
-This is the single most important limitation of the discharge and the one most often misunderstood. A valid lien on property survives bankruptcy even if the underlying debt is discharged. This is because liens are "in rem" rights -- they attach to specific property, not to you personally.
+This is the single most important limitation of the discharge and the one most often misunderstood. A valid lien on property survives bankruptcy even if the underlying debt is discharged. This is because liens are "in rem" rights - they attach to specific property, not to you personally.
 
 After discharge, a creditor with a lien cannot sue you personally or garnish your wages (the personal liability is gone), but they can still enforce the lien against the property. Common examples:
 
@@ -1706,19 +1725,19 @@ Lien avoidance and lien stripping. Bankruptcy law provides tools to deal with li
 
 Certain categories of debt are excepted from discharge under 11 U.S.C. Section 523(a). These debts survive the bankruptcy and remain fully enforceable after the case is closed. The most common nondischargeable debts include:
 
-Most tax debts -- though some older income tax debts can be discharged if they meet the "3/2/240" rule
+Most tax debts - though some older income tax debts can be discharged if they meet the "3/2/240" rule
 
-Student loans -- unless you can show "undue hardship" through an adversary proceeding (the standard varies by circuit)
+Student loans - unless you can show "undue hardship" through an adversary proceeding (the standard varies by circuit)
 
-Domestic support obligations -- child support and alimony are never dischargeable
+Domestic support obligations - child support and alimony are never dischargeable
 
-Debts obtained through fraud -- if the creditor proves you incurred the debt through false pretenses, false representation, or actual fraud (Section 523(a)(2))
+Debts obtained through fraud - if the creditor proves you incurred the debt through false pretenses, false representation, or actual fraud (Section 523(a)(2))
 
-Debts from willful and malicious injury -- Section 523(a)(6)
+Debts from willful and malicious injury - Section 523(a)(6)
 
-Certain fines and penalties -- government fines and criminal restitution
+Certain fines and penalties - government fines and criminal restitution
 
-DUI/DWI debts -- debts for death or personal injury caused by drunk driving
+DUI/DWI debts - debts for death or personal injury caused by drunk driving
 
 For a detailed guide to nondischargeable debts, see nondischargeable.org and our page on what the discharge injunction does not cover.
 
@@ -1734,13 +1753,13 @@ Co-signed loans. If your parent co-signed a car loan and you discharge the debt 
 
 Joint credit cards. If you and your spouse have a joint credit card and only you file bankruptcy, the card issuer can still collect the full balance from your spouse.
 
-Guarantors. Business debts personally guaranteed by multiple parties -- each guarantor who did not file bankruptcy remains liable.
+Guarantors. Business debts personally guaranteed by multiple parties - each guarantor who did not file bankruptcy remains liable.
 
 Chapter 13 provides some protection for co-debtors through the "co-debtor stay" under Section 1301, which stays creditor action against co-debtors on consumer debts during the pendency of the case. But this protection is temporary and limited to the Chapter 13 case itself.
 
 4. Post-Petition Debts Are Not Discharged
 
-The discharge covers debts that existed before the bankruptcy petition was filed. Debts incurred after the filing date are not discharged. The dividing line is the petition date -- the date you (or your attorney) filed the bankruptcy case with the court.
+The discharge covers debts that existed before the bankruptcy petition was filed. Debts incurred after the filing date are not discharged. The dividing line is the petition date - the date you (or your attorney) filed the bankruptcy case with the court.
 
 This matters most in cases that last a long time. A Chapter 13 case can last three to five years. Debts you incur during that period are generally not covered by the discharge you receive at the end of the case (though there are exceptions for certain debts provided for in the plan).
 
@@ -1754,9 +1773,9 @@ The distinction between "in rem" (against the thing) and "in personam" (against 
 
 Before bankruptcy: A creditor with a secured debt has both in personam and in rem rights. They can sue you personally (in personam) AND enforce their lien against the property (in rem).
 
-After discharge: The creditor loses their in personam rights but retains their in rem rights. They cannot sue you, garnish your wages, or take any action against you personally for the debt. But they can still enforce the lien -- foreclose on the house, repossess the car, or levy against property subject to a tax lien.
+After discharge: The creditor loses their in personam rights but retains their in rem rights. They cannot sue you, garnish your wages, or take any action against you personally for the debt. But they can still enforce the lien - foreclose on the house, repossess the car, or levy against property subject to a tax lien.
 
-This creates an important practical reality: if you want to keep property that has a lien on it, you generally need to continue making payments even though you are no longer personally liable. The creditor cannot force you to pay -- but they can take the property if you do not.
+This creates an important practical reality: if you want to keep property that has a lien on it, you generally need to continue making payments even though you are no longer personally liable. The creditor cannot force you to pay - but they can take the property if you do not.
 
 Debts You Forgot to List
 
@@ -1764,13 +1783,13 @@ A common concern: what happens if you failed to list a debt in your bankruptcy s
 
 No-Asset Chapter 7 Cases
 
-In a no-asset Chapter 7 case -- one where the trustee found no assets to distribute to creditors and no claims bar date was set -- most circuits hold that unlisted debts are still discharged. The reasoning is that since there were no assets to distribute, the creditor suffered no prejudice from not being listed. The leading case is Judd v. Wolfe, 78 F.3d 110 (3d Cir. 1996).
+In a no-asset Chapter 7 case - one where the trustee found no assets to distribute to creditors and no claims bar date was set - most circuits hold that unlisted debts are still discharged. The reasoning is that since there were no assets to distribute, the creditor suffered no prejudice from not being listed. The leading case is Judd v. Wolfe, 78 F.3d 110 (3d Cir. 1996).
 
 The exception is debts that are potentially nondischargeable under Section 523(a)(2) (fraud), (4) (fiduciary fraud), or (6) (willful and malicious injury). For these categories, the creditor must have had notice and opportunity to file a complaint to determine dischargeability. Under Section 523(a)(3), if the creditor did not receive notice in time to file such a complaint, the debt may survive the discharge.
 
 Asset Cases and Chapter 13
 
-In an asset Chapter 7 case (where a claims bar date was set) or a Chapter 13 case, failing to list a creditor can have more serious consequences. The unlisted creditor may not have received notice of the bankruptcy, and therefore may not have filed a proof of claim. If the creditor was prejudiced by the omission -- for example, they missed the claims bar date and lost the opportunity to receive a distribution -- the debt may survive the discharge.
+In an asset Chapter 7 case (where a claims bar date was set) or a Chapter 13 case, failing to list a creditor can have more serious consequences. The unlisted creditor may not have received notice of the bankruptcy, and therefore may not have filed a proof of claim. If the creditor was prejudiced by the omission - for example, they missed the claims bar date and lost the opportunity to receive a distribution - the debt may survive the discharge.
 
 Reaffirmation Agreements
 
@@ -1788,7 +1807,7 @@ If the debtor is not represented by an attorney, the court must approve the agre
 
 The debtor can rescind the agreement within 60 days after it is filed with the court, or before the discharge is entered, whichever is later
 
-Reaffirmation most commonly arises with car loans and mortgages, where the debtor wants to keep the property and the lender requires reaffirmation as a condition of continued financing. However, reaffirmation is never required -- it is voluntary. Many bankruptcy attorneys advise against reaffirmation because it restores personal liability that the discharge would otherwise eliminate.
+Reaffirmation most commonly arises with car loans and mortgages, where the debtor wants to keep the property and the lender requires reaffirmation as a condition of continued financing. However, reaffirmation is never required - it is voluntary. Many bankruptcy attorneys advise against reaffirmation because it restores personal liability that the discharge would otherwise eliminate.
 
 For more on reaffirmation, see reaffirmationagreement.org.
 
@@ -1796,15 +1815,15 @@ Not legal advice. This page provides general information about the scope of the 
 
 Related Resources
 
-What the Discharge Does Not Cover -- nondischargeable debts and exceptions
+What the Discharge Does Not Cover - nondischargeable debts and exceptions
 
-Discharge Injunction Violations -- when creditors cross the line
+Discharge Injunction Violations - when creditors cross the line
 
-Nondischargeable Debts -- complete guide to debts that survive bankruptcy
+Nondischargeable Debts - complete guide to debts that survive bankruptcy
 
-Lien Stripping -- removing liens through Chapter 13
+Lien Stripping - removing liens through Chapter 13
 
-Reaffirmation Agreements -- when and whether to reaffirm debts
+Reaffirmation Agreements - when and whether to reaffirm debts
 
 Related Guides
 
@@ -1821,13 +1840,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -1863,7 +1882,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -1935,11 +1954,13 @@ Exceptions
 Collectors
 Employers
 
+Home›Statute of Limitations
+
 Part of the Open Bankruptcy Project
 
 Is There a Statute of Limitations on Discharge Injunction Violations?
 
-The discharge injunction itself is permanent -- it never expires. But the question of how long you have to seek damages for a violation is more complicated. Courts around the country have reached different conclusions, and the answer may depend on where you live.
+The discharge injunction itself is permanent - it never expires. But the question of how long you have to seek damages for a violation is more complicated. Courts around the country have reached different conclusions, and the answer may depend on where you live.
 
 The Discharge Injunction Is Permanent
 
@@ -1955,7 +1976,7 @@ The harder question is whether there is a deadline for the debtor to seek damage
 
 Position 1: No Statute of Limitations
 
-Some courts hold that because the discharge injunction is a permanent court order, and because contempt is the mechanism for enforcing court orders, there is no statute of limitations on a motion for contempt. The reasoning is straightforward: if someone violates a court order, the court has inherent power to enforce it regardless of when the violation occurred. Statutes of limitations apply to causes of action -- lawsuits based on legal rights -- not to the enforcement of existing court orders through contempt.
+Some courts hold that because the discharge injunction is a permanent court order, and because contempt is the mechanism for enforcing court orders, there is no statute of limitations on a motion for contempt. The reasoning is straightforward: if someone violates a court order, the court has inherent power to enforce it regardless of when the violation occurred. Statutes of limitations apply to causes of action - lawsuits based on legal rights - not to the enforcement of existing court orders through contempt.
 
 Courts in this camp note that the discharge injunction is not a "claim" that the debtor files; it is a court order that the debtor asks the court to enforce. The distinction matters because statutes of limitations are designed to prevent stale claims, but contempt proceedings serve a different function: they vindicate the authority of the court and protect the party whom the order was designed to benefit.
 
@@ -1985,7 +2006,7 @@ Unreasonable delay. The debtor knew about the violation but waited an unreasonab
 
 Prejudice. The delay caused actual harm to the creditor. For example, the creditor may have destroyed records that they would have used to defend the contempt motion, or key witnesses may no longer be available, or the creditor changed its practices in reliance on the debtor's inaction.
 
-Laches is harder for a creditor to establish than a statute of limitations defense because the creditor bears the burden of proof on both elements. And courts are generally skeptical of the defense when the creditor is the one who violated a court order -- the wrongdoer does not easily get to benefit from the victim's delay.
+Laches is harder for a creditor to establish than a statute of limitations defense because the creditor bears the burden of proof on both elements. And courts are generally skeptical of the defense when the creditor is the one who violated a court order - the wrongdoer does not easily get to benefit from the victim's delay.
 
 When Laches Typically Fails
 
@@ -2031,13 +2052,13 @@ Not legal advice. This page provides general information about time limits on di
 
 Related Resources
 
-Filing a Contempt Motion -- the procedure for enforcing the discharge injunction in court
+Filing a Contempt Motion - the procedure for enforcing the discharge injunction in court
 
-Discharge Injunction Violations -- identifying and documenting violations
+Discharge Injunction Violations - identifying and documenting violations
 
-Debt Collectors After Discharge -- your rights when collectors call, including FDCPA overlap
+Debt Collectors After Discharge - your rights when collectors call, including FDCPA overlap
 
-Automatic Stay Violations -- time limits and remedies for stay violations during the case
+Automatic Stay Violations - time limits and remedies for stay violations during the case
 
 Related Guides
 
@@ -2054,13 +2075,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2096,7 +2117,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -2152,7 +2173,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Creditor Violating Your Discharge? What to Do -- Discharge Injunction
+## Creditor Violating Your Discharge? What to Do - Discharge Injunction
 Source: https://dischargeinjunction.com/violations.html
 
 Skip to main content
@@ -2168,6 +2189,8 @@ Exceptions
 Collectors
 Employers
 
+Home›Violations
+
 Part of the Open Bankruptcy Project
 
 Creditor Violating Your Discharge? What to Do
@@ -2178,25 +2201,25 @@ What Counts as a Violation?
 
 The discharge injunction under 11 U.S.C. Section 524(a)(2) bars any act to collect a discharged debt as a personal liability. The following are all violations:
 
-Collection calls or voicemails -- Any phone contact demanding or requesting payment of a discharged debt
+Collection calls or voicemails - Any phone contact demanding or requesting payment of a discharged debt
 
-Demand letters -- Written correspondence stating you owe a balance on a discharged debt
+Demand letters - Written correspondence stating you owe a balance on a discharged debt
 
-Billing statements -- Sending monthly statements showing an amount due (as opposed to informational statements)
+Billing statements - Sending monthly statements showing an amount due (as opposed to informational statements)
 
-Lawsuits -- Filing or continuing a state or federal court action to collect a discharged debt
+Lawsuits - Filing or continuing a state or federal court action to collect a discharged debt
 
-Wage garnishment -- Garnishing your wages or salary for a discharged debt
+Wage garnishment - Garnishing your wages or salary for a discharged debt
 
-Bank levies -- Freezing or seizing funds from your bank account
+Bank levies - Freezing or seizing funds from your bank account
 
-Liens on after-acquired property -- Attempting to assert personal liability through new liens (note: pre-petition in rem liens may survive -- see exceptions)
+Liens on after-acquired property - Attempting to assert personal liability through new liens (note: pre-petition in rem liens may survive - see exceptions)
 
-Threats or intimidation -- Verbal or written threats about consequences of not paying a discharged debt
+Threats or intimidation - Verbal or written threats about consequences of not paying a discharged debt
 
-Reporting to credit bureaus -- Reporting a discharged debt as active, delinquent, or having a balance (see credit reporting guide)
+Reporting to credit bureaus - Reporting a discharged debt as active, delinquent, or having a balance (see credit reporting guide)
 
-Conditioning services -- Refusing to provide utility service, housing, or other services unless you pay a discharged debt
+Conditioning services - Refusing to provide utility service, housing, or other services unless you pay a discharged debt
 
 One contact is enough. A creditor does not get a "free pass" for the first violation. Even a single collection call on a discharged debt can support a contempt motion. Courts look at whether the creditor knew or should have known about the discharge.
 
@@ -2208,13 +2231,13 @@ For Phone Calls
 
 Write down the date, time, caller's name, phone number, and company name immediately
 
-Note exactly what was said -- were they demanding payment? Threatening consequences? Asking you to "resolve" the account?
+Note exactly what was said - were they demanding payment? Threatening consequences? Asking you to "resolve" the account?
 
 If your state allows one-party recording, record the call (check your state's wiretapping laws first)
 
 Save your phone's call log showing incoming calls from the creditor
 
-If they leave a voicemail, save it -- do not delete it
+If they leave a voicemail, save it - do not delete it
 
 For Written Communications
 
@@ -2222,7 +2245,7 @@ Keep the original letter or notice in a safe place
 
 Photograph or scan it immediately
 
-Save the envelope -- the postmark is evidence of when it was sent
+Save the envelope - the postmark is evidence of when it was sent
 
 Note when you received it
 
@@ -2234,7 +2257,7 @@ Screenshot or print any discharged debt showing a balance, showing as delinquent
 
 Save the date you pulled the report
 
-Keep records of any harm caused -- loan denials, higher interest rates, lost housing applications
+Keep records of any harm caused - loan denials, higher interest rates, lost housing applications
 
 For Lawsuits or Garnishments
 
@@ -2242,7 +2265,7 @@ Keep all court papers
 
 Note the case number, court, and creditor's attorney
 
-Do not ignore the lawsuit -- respond and raise the discharge as a defense
+Do not ignore the lawsuit - respond and raise the discharge as a defense
 
 Contact a consumer attorney immediately
 
@@ -2252,7 +2275,7 @@ Here is the recommended sequence when you discover a discharge violation:
 
 Confirm the debt was discharged. Check your bankruptcy discharge order. Make sure the specific debt was included in your bankruptcy (not a post-petition debt or a nondischargeable debt under Section 523).
 
-Document the violation. Follow the documentation steps above. Be thorough -- you may need this evidence months later.
+Document the violation. Follow the documentation steps above. Be thorough - you may need this evidence months later.
 
 Send a cease-and-desist letter. Put the creditor on written notice that the debt was discharged. Use certified mail with return receipt requested. See the template below.
 
@@ -2275,7 +2298,7 @@ Below is a template you can adapt. Send this by certified mail with return recei
 [Creditor Address]
 [City, State, ZIP]
 
-Re: Cease and Desist -- Violation of Bankruptcy Discharge Injunction
+Re: Cease and Desist - Violation of Bankruptcy Discharge Injunction
 Account Number: [Account Number, if known]
 Bankruptcy Case: [Your Case Number, e.g., No. 24-12345]
 Court: [Court Name, e.g., U.S. Bankruptcy Court, Southern District of Florida]
@@ -2327,7 +2350,7 @@ Your wages are being garnished or your bank account has been frozen
 
 The violations are ongoing after you sent a cease-and-desist letter
 
-The creditor is a large company with a legal department (they will have lawyers -- you should too)
+The creditor is a large company with a legal department (they will have lawyers - you should too)
 
 You have suffered significant financial harm (denied housing, lost a job, etc.)
 
@@ -2352,13 +2375,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2394,7 +2417,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -2460,6 +2483,8 @@ Exceptions
 Collectors
 Employers
 
+Home›Exceptions
+
 Part of the Open Bankruptcy Project
 
 What the Discharge Injunction Does NOT Cover
@@ -2470,23 +2495,23 @@ Nondischargeable Debts (Section 523)
 
 11 U.S.C. Section 523(a) lists specific categories of debts that cannot be discharged in bankruptcy. The discharge injunction does not apply to these debts, and creditors holding nondischargeable debts are free to continue collection. The most common categories:
 
-523(a)(1) -- Certain taxes. Recent income taxes (generally within 3 years of the return due date), trust fund taxes, and taxes for which no return was filed.
+523(a)(1) - Certain taxes. Recent income taxes (generally within 3 years of the return due date), trust fund taxes, and taxes for which no return was filed.
 
-523(a)(2) -- Fraud. Debts obtained through false pretenses, false representations, or actual fraud. Also includes consumer debts over $725 for luxury goods within 90 days of filing, and cash advances over $1,000 within 70 days of filing (presumed nondischargeable).
+523(a)(2) - Fraud. Debts obtained through false pretenses, false representations, or actual fraud. Also includes consumer debts over $725 for luxury goods within 90 days of filing, and cash advances over $1,000 within 70 days of filing (presumed nondischargeable).
 
-523(a)(3) -- Unlisted debts. Debts not listed in time for the creditor to file a proof of claim or dischargeability complaint, unless the creditor had actual knowledge of the case.
+523(a)(3) - Unlisted debts. Debts not listed in time for the creditor to file a proof of claim or dischargeability complaint, unless the creditor had actual knowledge of the case.
 
-523(a)(4) -- Fiduciary fraud, embezzlement, larceny. Debts arising from fraud or defalcation while acting in a fiduciary capacity, or from embezzlement or larceny.
+523(a)(4) - Fiduciary fraud, embezzlement, larceny. Debts arising from fraud or defalcation while acting in a fiduciary capacity, or from embezzlement or larceny.
 
-523(a)(5) -- Domestic support obligations. Child support, alimony, and other domestic support obligations are never dischargeable.
+523(a)(5) - Domestic support obligations. Child support, alimony, and other domestic support obligations are never dischargeable.
 
-523(a)(6) -- Willful and malicious injury. Debts for willful and malicious injury to another person or their property.
+523(a)(6) - Willful and malicious injury. Debts for willful and malicious injury to another person or their property.
 
-523(a)(7) -- Government fines and penalties. Fines, penalties, or forfeitures owed to a governmental unit (not compensation for actual pecuniary loss).
+523(a)(7) - Government fines and penalties. Fines, penalties, or forfeitures owed to a governmental unit (not compensation for actual pecuniary loss).
 
-523(a)(8) -- Student loans. Student loans are generally nondischargeable unless the debtor can demonstrate "undue hardship" -- a high bar that varies by circuit. Recent trends have made this slightly more flexible in some jurisdictions.
+523(a)(8) - Student loans. Student loans are generally nondischargeable unless the debtor can demonstrate "undue hardship" - a high bar that varies by circuit. Recent trends have made this slightly more flexible in some jurisdictions.
 
-523(a)(15) -- Divorce property settlements. Debts owed to a spouse or former spouse that arise from a divorce decree or separation agreement (in Chapter 7; these may be dischargeable in Chapter 13).
+523(a)(15) - Divorce property settlements. Debts owed to a spouse or former spouse that arise from a divorce decree or separation agreement (in Chapter 7; these may be dischargeable in Chapter 13).
 
 Important: Some of these exceptions are self-executing (the debt is automatically nondischargeable), while others require the creditor to file an adversary proceeding to establish nondischargeability. If a creditor did not file an adversary proceeding for debts that require one (such as 523(a)(2), (4), or (6)), the debt is discharged by default. A creditor cannot come back years later claiming the debt was nondischargeable if they missed the deadline to challenge it.
 
@@ -2496,15 +2521,15 @@ This is one of the most misunderstood aspects of bankruptcy law. The discharge e
 
 For example, if you have a mortgage on your home and receive a Chapter 7 discharge:
 
-Your personal obligation to pay the mortgage is discharged -- the lender cannot sue you for a deficiency or report the debt as personally owed
+Your personal obligation to pay the mortgage is discharged - the lender cannot sue you for a deficiency or report the debt as personally owed
 
-But the lien on the property survives -- the lender can still foreclose on the property if payments are not made
+But the lien on the property survives - the lender can still foreclose on the property if payments are not made
 
 The lender can enforce its rights against the property (in rem) but not against you personally (in personam)
 
 This applies to all secured debts: mortgages, car loans, tax liens, judgment liens, and mechanic's liens. The discharge injunction bars personal collection, but it does not strip the lien. If you want to keep the property, you generally need to keep making payments (even though you are no longer personally liable) or reaffirm the debt.
 
-Lien stripping: In Chapter 13 (and sometimes Chapter 11), certain wholly unsecured junior liens can be stripped -- meaning the lien itself is removed, not just the personal liability. This most commonly applies to second mortgages on underwater homes. But in a standard Chapter 7, liens pass through the bankruptcy intact.
+Lien stripping: In Chapter 13 (and sometimes Chapter 11), certain wholly unsecured junior liens can be stripped - meaning the lien itself is removed, not just the personal liability. This most commonly applies to second mortgages on underwater homes. But in a standard Chapter 7, liens pass through the bankruptcy intact.
 
 Debts Not Listed in Your Bankruptcy
 
@@ -2512,7 +2537,7 @@ Under Section 523(a)(3), a debt that was not listed in your bankruptcy schedules
 
 There are important nuances:
 
-In a Chapter 7 no-asset case, most courts hold that unlisted debts are still discharged because there was no claims bar date -- creditors had nothing to file. The creditor's rights were not affected by the omission.
+In a Chapter 7 no-asset case, most courts hold that unlisted debts are still discharged because there was no claims bar date - creditors had nothing to file. The creditor's rights were not affected by the omission.
 
 In a Chapter 7 asset case or Chapter 13 case, an unlisted creditor who did not receive notice may have a viable argument that their debt was not discharged, because they missed the opportunity to file a claim and receive a distribution.
 
@@ -2585,13 +2610,13 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:
 
 11 U.S.C. Section 523
-Cornell LII -- exceptions to discharge
+Cornell LII - exceptions to discharge
 
 11 U.S.C. Section 524
-Cornell LII -- discharge injunction
+Cornell LII - discharge injunction
 
 11 U.S.C. Section 727
-Cornell LII -- grounds for denying discharge
+Cornell LII - grounds for denying discharge
 
 Discharge in Bankruptcy
 USCourts.gov
@@ -2627,7 +2652,7 @@ bankruptcydenied.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-dischargeinjunction.com -- Understanding the bankruptcy discharge injunction.
+dischargeinjunction.com - Understanding the bankruptcy discharge injunction.
 
 Home
 Violations
@@ -2676,3 +2701,75 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+---
+
+## Privacy Policy - dischargeinjunction.com
+Source: https://dischargeinjunction.com/privacy.html
+
+dischargeinjunction.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
