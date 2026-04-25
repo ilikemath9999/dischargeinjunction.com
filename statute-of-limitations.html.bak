@@ -17,18 +17,18 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Discharged Debt Still on Your Credit Report - How to Dispute - Discharge Injunction</title>
-<meta name="description" content="Learn about discharged debt still on your credit report - how to dispute | dischargeinjunction.com in our free 2026 guide.">
-<meta name="keywords" content="discharged debt still on credit report, credit report dispute bankruptcy, FCRA dispute discharged debt, credit bureau dispute letter, bankruptcy credit report error, charged off after bankruptcy">
-<link rel="canonical" href="https://dischargeinjunction.com/credit-report-dispute.html">
-<meta property="og:title" content="Discharged Debt Still on Your Credit Report - How to Dispute - Discharge Injunction">
-<meta property="og:description" content="Learn about discharged debt still on your credit report - how to dispute | dischargeinjunction.com in our free 2026 guide.">
+<title>Is There a Statute of Limitations on Discharge Injunction Violations?</title>
+<meta name="description" content="Learn about is there a statute of limitations on discharge injunction violations? | dischargeinjunction.com in our free 2026 guide.">
+<meta name="keywords" content="statute of limitations discharge injunction violation, time limit bankruptcy contempt, laches defense discharge violation, how long to file contempt motion bankruptcy">
+<link rel="canonical" href="https://dischargeinjunction.com/statute-of-limitations.html">
+<meta property="og:title" content="Is There a Statute of Limitations on Discharge Injunction Violations?">
+<meta property="og:description" content="Learn about is there a statute of limitations on discharge injunction violations? | dischargeinjunction.com in our free 2026 guide.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://dischargeinjunction.com/credit-report-dispute.html">
+<meta property="og:url" content="https://dischargeinjunction.com/statute-of-limitations.html">
 <meta property="og:site_name" content="dischargeinjunction.com">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Discharged Debt Still on Your Credit Report - How to Dispute - Discharge Injunction">
-<meta name="twitter:description" content="Learn about discharged debt still on your credit report - how to dispute | dischargeinjunction.com in our free 2026 guide.">
+<meta name="twitter:title" content="Is There a Statute of Limitations on Discharge Injunction Violations?">
+<meta name="twitter:description" content="Learn about is there a statute of limitations on discharge injunction violations? | dischargeinjunction.com in our free 2026 guide.">
 <meta property="og:image" content="https://dischargeinjunction.com/og-image.svg">
 <meta name="twitter:image" content="https://dischargeinjunction.com/og-image.svg">
 
@@ -38,7 +38,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://dischargeinjunction.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Credit Report Dispute", "item": "https://dischargeinjunction.com/credit-report-dispute.html" }
+    { "@type": "ListItem", "position": 2, "name": "Statute of Limitations", "item": "https://dischargeinjunction.com/statute-of-limitations.html" }
   ]
 }
 </script>
@@ -50,34 +50,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Should a discharged debt show a $0 balance on my credit report?",
+      "name": "Does the discharge injunction expire?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. After a bankruptcy discharge, any debt that was discharged should be reported with a $0 balance and a notation such as 'discharged in bankruptcy' or 'included in bankruptcy.' If a creditor is still reporting a balance owed, that is inaccurate and you have the right to dispute it under the Fair Credit Reporting Act."
+        "text": "No. The discharge injunction under 11 U.S.C. Section 524(a)(2) is permanent. It does not expire, and there is no time limit on the injunction itself. Once a debt is discharged, the prohibition against collecting that debt as a personal liability lasts forever."
       }
     },
     {
       "@type": "Question",
-      "name": "How long does bankruptcy stay on my credit report?",
+      "name": "Is there a deadline to file a contempt motion for a discharge violation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A Chapter 7 bankruptcy filing remains on your credit report for 10 years from the filing date. A Chapter 13 filing remains for 7 years from the filing date. However, the individual debts included in the bankruptcy should show a $0 balance and should not remain on your report longer than 7 years from the date of first delinquency, regardless of the bankruptcy type."
+        "text": "Courts are divided. Some courts hold that because the discharge injunction is a permanent court order, there is no statute of limitations on contempt proceedings to enforce it. Other courts borrow state statutes of limitations for analogous claims (typically 1-6 years depending on the state). The safest approach is to act promptly when you discover a violation."
       }
     },
     {
       "@type": "Question",
-      "name": "What if the credit bureau does not fix the error after I dispute it?",
+      "name": "What is the laches defense in discharge injunction cases?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If a credit bureau fails to correct inaccurate information after a proper dispute, you may have a claim under the Fair Credit Reporting Act (FCRA), 15 U.S.C. Section 1681. You can sue the credit bureau and/or the furnisher (the creditor reporting the incorrect information) for actual damages, statutory damages up to $1,000, punitive damages, and attorney fees. Many FCRA attorneys take these cases on contingency."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I dispute online or do I need to send a letter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can dispute online through each bureau's website, but consumer advocates generally recommend sending a written dispute by certified mail with return receipt requested. A written letter creates a clear paper trail, allows you to attach supporting documents (like your discharge order), and starts the clock on the bureau's 30-day investigation deadline under the FCRA."
+        "text": "Laches is an equitable defense that a creditor may raise if the debtor unreasonably delayed in seeking relief and the creditor was prejudiced by the delay. For example, if a debtor knew about discharge violations for years but did nothing, and the creditor destroyed records or changed practices in the meantime, a court might find laches applies. However, ongoing violations generally defeat a laches defense because the harm is continuing."
       }
     }
   ]
@@ -93,8 +85,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Discharged Debt Still on Your Credit Report - How to Dispute",
-      "description": "If a discharged debt still shows a balance on your credit report, learn how to dispute it under the FCRA. Step-by-step guide to fixing your credit report after ",
+      "headline": "Is There a Statute of Limitations on Discharge Injunction Violations?",
+      "description": "The discharge injunction is permanent, but courts disagree on time limits for seeking damages for violations. Learn about statute of limitations issues and the ",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -106,12 +98,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://dischargeinjunction.com/credit-report-dispute.html"
+      "mainEntityOfPage": "https://dischargeinjunction.com/statute-of-limitations.html"
+    },
+    {
+      "@type": "HowTo",
+      "name": "Is There a Statute of Limitations on Discharge Injunction Violations?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nIs There a Statute of Limitations on Discharge I"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Fourth Circuit: Some courts have borrowed the state's general statute of limitations for civil actions"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Ninth Circuit: Courts have generally been more protective of debtors, with some holding that no limitations period applies to contempt proceedings"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Unreasonable delay. The debtor knew about the violation but waited an unreasonable amount of time before seeking relief. What counts as \"unreasonable\" is fact-specific and depends on the circumstances"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Prejudice. The delay caused actual harm to the creditor. For example, the creditor may have destroyed records that they would have used to defend the contempt motion, or key witnesses may no longer be"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Ongoing violations. If the creditor is still violating the discharge injunction, the debtor's delay in responding to earlier violations is less relevant because the harm is continuing."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Debtor was unaware. If the debtor did not know about the violation until recently (for example, they just discovered inaccurate credit reporting), the delay was not unreasonable because it was not kno"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "No creditor prejudice. If the creditor has records of the violation and no witnesses have become unavailable, there is no prejudice from the delay."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Creditor's own wrongdoing. Courts are reluctant to reward a creditor who violated a court order by allowing them to escape accountability due to the debtor's delay."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Long delay with knowledge. If the debtor knew about the violations for many years and took no action, the delay may be deemed unreasonable."
+        }
+      ]
     },
     {
       "@type": "WebPage",
-      "name": "Discharged Debt Still on Your Credit Report - How to Dispute",
-      "url": "https://dischargeinjunction.com/credit-report-dispute.html",
+      "name": "Is There a Statute of Limitations on Discharge Injunction Violations?",
+      "url": "https://dischargeinjunction.com/statute-of-limitations.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -197,29 +245,8 @@
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 
-<link rel="alternate" hreflang="en" href="https://dischargeinjunction.com/credit-report-dispute.html">
-<link rel="alternate" hreflang="es" href="https://dischargeinjunction.com/credit-report-dispute-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://dischargeinjunction.com/statute-of-limitations.html">
+<link rel="alternate" hreflang="es" href="https://dischargeinjunction.com/statute-of-limitations-es.html">
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
@@ -239,163 +266,111 @@
 </nav>
 
 <main id="main">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://dischargeinjunction.com/">Home</a><span class="separator">&rsaquo;</span><span>Credit Report Dispute</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://dischargeinjunction.com/">Home</a><span class="separator">&rsaquo;</span><span>Statute of Limitations</span></nav>
 
   <div class="network-badge">Part of the <a href="https://1328f.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a></div>
 
-  <h1>Discharged Debt Still on Your Credit Report - How to Dispute</h1>
+  <h1>Is There a Statute of Limitations on Discharge Injunction Violations?</h1>
 
-  <p class="lead">After your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, creditors are required to update their reporting to show discharged debts with a $0 balance. If your credit report still shows a balance on a discharged debt, that is likely inaccurate - and you have the right to dispute it under federal law.</p>
+  <p class="lead">The <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> itself is permanent - it never expires. But the question of how long you have to seek damages for a violation is more complicated. Courts around the country have reached different conclusions, and the answer may depend on where you live.</p>
 
-  <h2>How Discharged Debts Should Appear on Your Credit Report</h2>
+  <h2>The Discharge Injunction Is Permanent</h2>
 
-  <p>When a bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> is entered, each debt that was discharged should be updated on your credit report to reflect the following:</p>
+  <p>First, the easy part. The <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> imposed by 11 U.S.C. <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>(a)(2) is a permanent injunction. It does not have an expiration date, a sunset clause, or any other built-in time limit. Once the bankruptcy court enters a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> order, the prohibition against collecting the discharged debt as a personal liability of the debtor lasts forever.</p>
 
-  <ul>
-    <li><strong>Balance: $0</strong> - the discharged debt should show a zero balance, because you no longer owe it</li>
-    <li><strong>Status notation:</strong> "Discharged in bankruptcy," "Included in bankruptcy," or similar language indicating the debt was part of a bankruptcy case</li>
-    <li><strong>No collection status:</strong> The account should not be shown as "in collections," "charged off with balance due," or "past due" if the debt was discharged</li>
-  </ul>
+  <p>This means that a creditor who attempts to collect a debt discharged in 2010 is violating the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> just as much in 2026 as they would have been in 2011. The passage of time does not diminish the prohibition. The debt remains discharged, and the injunction remains in effect.</p>
 
-  <p>The bankruptcy filing itself will appear as a separate entry on your credit report. A <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> filing remains for 10 years from the filing date. A <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> filing remains for 7 years from the filing date. But the individual debts included in the bankruptcy have their own reporting timeline: they should not remain on your report longer than 7 years from the date of first delinquency, under the FCRA's Section 605 reporting limits.</p>
+  <p>There is no procedure to "undo" a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> or to lift the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> for a specific creditor (absent extraordinary circumstances such as fraud in obtaining the discharge). The injunction is a permanent feature of the bankruptcy discharge.</p>
 
-  <h2>Common Credit Report Errors After Bankruptcy</h2>
+  <h2>The Debate: Time Limits on Enforcement</h2>
 
-  <p>Credit reporting errors after bankruptcy are extremely common. A 2012 Federal Trade Commission study found that one in four consumers had errors on their credit reports, and errors related to bankruptcy are among the most frequent. Common problems include:</p>
+  <p>The harder question is whether there is a deadline for the debtor to seek damages when the injunction is violated. This is where courts disagree.</p>
 
-  <h3>Balance Still Showing</h3>
-  <p>The most common error: a discharged debt still shows a balance owed. This happens because the creditor or their servicer failed to update their records after receiving notice of the discharge. The credit bureau's automated systems then continue to display the old balance. This error can significantly damage your credit score and may cause you to be denied credit, housing, or employment.</p>
+  <h3>Position 1: No Statute of Limitations</h3>
 
-  <h3>"Charged Off" Without Bankruptcy Notation</h3>
-  <p>Some creditors report a discharged debt as "charged off" without noting that it was discharged in bankruptcy. A charge-off with an outstanding balance looks like an unpaid, delinquent debt - much worse for your credit score than a properly noted bankruptcy discharge. The correct reporting is "discharged in bankruptcy" with a $0 balance.</p>
+  <p>Some courts hold that because the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> is a permanent court order, and because contempt is the mechanism for enforcing court orders, there is no statute of limitations on a motion for contempt. The reasoning is straightforward: if someone violates a court order, the court has inherent power to enforce it regardless of when the violation occurred. Statutes of limitations apply to causes of action - lawsuits based on legal rights - not to the enforcement of existing court orders through contempt.</p>
 
-  <h3>Duplicate Entries</h3>
-  <p>Sometimes a discharged debt appears multiple times on your credit report - once under the original creditor and again under a collection agency or debt buyer. Both entries may show balances due. This double-counting further depresses your credit score and is inaccurate.</p>
+  <p>Courts in this camp note that the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> is not a "claim" that the debtor files; it is a court order that the debtor asks the court to enforce. The distinction matters because statutes of limitations are designed to prevent stale claims, but contempt proceedings serve a different function: they vindicate the authority of the court and protect the party whom the order was designed to benefit.</p>
 
-  <h3>Debt Reappearing After Correction</h3>
-  <p>In some cases, you successfully dispute a credit report error, the bureau corrects it, and then the same error reappears months later. This is called "reinsertion" and is specifically addressed by the FCRA. Under Section 611(a)(5)(B), a credit bureau that reinserts previously deleted information must notify you within five business days and provide the name, address, and phone number of the source of the information.</p>
+  <h3>Position 2: Borrow a State Statute of Limitations</h3>
 
-  <h3>Wrong Bankruptcy Type or Date</h3>
-  <p>The bankruptcy public record entry may show the wrong chapter (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> vs. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>) or wrong dates. Since the reporting period depends on the chapter filed, getting the type wrong can mean the bankruptcy stays on your report longer than it should.</p>
+  <p>Other courts apply a borrowed statute of limitations. Because the Bankruptcy Code does not specify a time limit for contempt motions, these courts look to the most analogous state law cause of action and borrow that state's limitations period. Depending on the state and how the court characterizes the claim, this can result in a limitations period ranging from one to six years.</p>
 
-  <h2>The FCRA Dispute Process</h2>
+  <p>Courts that borrow a limitations period typically reason that without some time limit, creditors face perpetual exposure to damages claims, which creates uncertainty and unfairness. They analogize the contempt motion to a tort claim (borrowing the personal injury or general tort statute of limitations) or to a statutory penalty claim.</p>
 
-  <p>The Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) gives you the right to dispute inaccurate information on your credit report. Here is the step-by-step process.</p>
-
-  <h3>Step 1: Get Your Credit Reports</h3>
-
-  <p>You are entitled to one free credit report per year from each of the three major bureaus through <a href="https://www.annualcreditreport.com">AnnualCreditReport.com</a> (the only federally authorized source). Pull all three reports because creditors do not always report to all three bureaus, and the errors may differ.</p>
+  <p>Some examples of how different jurisdictions have approached this:</p>
 
   <ul>
-    <li><strong>Equifax</strong> - equifax.com</li>
-    <li><strong>Experian</strong> - experian.com</li>
-    <li><strong>TransUnion</strong> - transunion.com</li>
-  </ul>
-
-  <p>Review each report carefully. For every discharged debt, check that the balance is $0 and the account is noted as included in or discharged through bankruptcy.</p>
-
-  <h3>Step 2: Write Your Dispute Letter</h3>
-
-  <p>While you can dispute online through each bureau's website, consumer advocates strongly recommend sending a written dispute letter by certified mail with return receipt requested. A written letter:</p>
-
-  <ul>
-    <li>Creates a clear paper trail with a confirmed delivery date</li>
-    <li>Allows you to attach supporting documents</li>
-    <li>Starts the bureau's 30-day investigation clock under FCRA Section 611(a)(1)</li>
-    <li>Is harder for the bureau to mishandle or ignore than an online dispute</li>
-  </ul>
-
-  <p>Your dispute letter should include:</p>
-
-  <ul>
-    <li>Your full name, address, date of birth, and Social Security number (for identification)</li>
-    <li>Identification of each item you are disputing (creditor name, account number)</li>
-    <li>A clear explanation of why the information is inaccurate</li>
-    <li>What the correct information should be (e.g., "balance should be $0, discharged in bankruptcy")</li>
-    <li>A copy of your bankruptcy discharge order</li>
-    <li>A copy of your Schedule E/F or other filing documents showing the debt was included in the bankruptcy</li>
-    <li>A request that the bureau investigate and correct the information</li>
+    <li><strong>Second Circuit:</strong> In <em>In re Roemelmeyer</em>, some courts in this circuit have applied state tort statutes of limitations</li>
+    <li><strong>Fourth Circuit:</strong> Some courts have borrowed the state's general statute of limitations for civil actions</li>
+    <li><strong>Ninth Circuit:</strong> Courts have generally been more protective of debtors, with some holding that no limitations period applies to contempt proceedings</li>
   </ul>
 
   <div class="callout">
-    <p><strong>Send to each bureau separately.</strong> If the error appears on reports from multiple bureaus, you must send a separate dispute letter to each one. The bureaus do not share dispute information with each other.</p>
+    <p><strong>Continuing violations.</strong> Even in jurisdictions that apply a statute of limitations, the clock typically restarts with each new violation. If a creditor has been making monthly collection calls on a discharged debt, each call is a separate violation. The limitations period would run from the most recent call, not the first one. This "continuing violation" theory means that ongoing misconduct is rarely time-barred.</p>
   </div>
 
-  <h3>Step 3: Dispute with the Furnisher</h3>
+  <h2>The Laches Defense</h2>
 
-  <p>In addition to disputing with the credit bureaus, you can (and should) dispute directly with the "furnisher" - the creditor or collector reporting the inaccurate information. Under FCRA Section 623(a)(8), a furnisher that receives a direct dispute must investigate and correct any inaccurate information. Send the furnisher the same documentation you sent the bureau.</p>
+  <p>Even in courts that hold there is no statute of limitations on contempt motions, creditors can raise the equitable defense of laches. Laches is a judge-made doctrine that says a court may decline to grant relief to a party who unreasonably delayed in asserting their rights, if the delay caused prejudice to the opposing party.</p>
 
-  <p>Disputing with both the bureau and the furnisher creates parallel pressure and increases the likelihood of a timely correction.</p>
+  <p>To succeed on a laches defense, the creditor must show two things:</p>
 
-  <h3>Step 4: Wait for the Investigation</h3>
+  <ol>
+    <li><strong>Unreasonable delay.</strong> The debtor knew about the violation but waited an unreasonable amount of time before seeking relief. What counts as "unreasonable" is fact-specific and depends on the circumstances.</li>
+    <li><strong>Prejudice.</strong> The delay caused actual harm to the creditor. For example, the creditor may have destroyed records that they would have used to defend the contempt motion, or key witnesses may no longer be available, or the creditor changed its practices in reliance on the debtor's inaction.</li>
+  </ol>
 
-  <p>Once the credit bureau receives your dispute, it has 30 days to investigate (45 days if you provide additional information during the investigation). The bureau must:</p>
+  <p>Laches is harder for a creditor to establish than a statute of limitations defense because the creditor bears the burden of proof on both elements. And courts are generally skeptical of the defense when the creditor is the one who violated a court order - the wrongdoer does not easily get to benefit from the victim's delay.</p>
 
-  <ul>
-    <li>Forward your dispute to the furnisher within 5 business days</li>
-    <li>Consider all information you provided</li>
-    <li>Complete the investigation within the statutory deadline</li>
-    <li>Send you the results in writing, including a free copy of your updated credit report if changes were made</li>
-  </ul>
-
-  <p>The furnisher must investigate the dispute, review the information you provided, report the results to the bureau, and correct any information found to be inaccurate.</p>
-
-  <h3>Step 5: Review the Results</h3>
-
-  <p>If the bureau corrects the information, verify the correction by pulling your report again after 30-60 days. Make sure the correction stuck and the error was not reinserted.</p>
-
-  <p>If the bureau or furnisher refuses to correct the information, or if they claim the information is accurate when you know it is not, you have several options.</p>
-
-  <h2>When the Bureau Does Not Fix It</h2>
-
-  <h3>Add a Consumer Statement</h3>
-  <p>Under FCRA Section 611(b), you have the right to add a brief statement to your credit file explaining the dispute. This statement must be included in future reports. However, consumer statements have limited practical impact - many lenders use automated systems that do not read them.</p>
-
-  <h3>File a CFPB Complaint</h3>
-  <p>The Consumer Financial Protection Bureau accepts complaints about credit reporting errors at <a href="https://www.consumerfinance.gov/complaint/">consumerfinance.gov/complaint</a>. The CFPB will forward your complaint to the bureau and require a response. CFPB complaints often get faster and more thorough responses than direct disputes.</p>
-
-  <h3>Consult an FCRA Attorney</h3>
-  <p>If the bureau and furnisher refuse to correct clearly inaccurate information, you may have a claim under the FCRA. You can sue for:</p>
+  <h3>When Laches Typically Fails</h3>
 
   <ul>
-    <li><strong>Actual damages</strong> - including denied credit, higher interest rates, emotional distress, and lost opportunities caused by the inaccurate reporting</li>
-    <li><strong>Statutory damages</strong> - $100 to $1,000 per violation for willful noncompliance (15 U.S.C. Section 1681n)</li>
-    <li><strong>Punitive damages</strong> - available for willful violations</li>
-    <li><strong>Attorney fees and costs</strong> - the losing party pays your attorney, which is why many FCRA attorneys take cases on contingency</li>
+    <li><strong>Ongoing violations.</strong> If the creditor is still violating the discharge injunction, the debtor's delay in responding to earlier violations is less relevant because the harm is continuing.</li>
+    <li><strong>Debtor was unaware.</strong> If the debtor did not know about the violation until recently (for example, they just discovered inaccurate credit reporting), the delay was not unreasonable because it was not knowing.</li>
+    <li><strong>No creditor prejudice.</strong> If the creditor has records of the violation and no witnesses have become unavailable, there is no prejudice from the delay.</li>
+    <li><strong>Creditor's own wrongdoing.</strong> Courts are reluctant to reward a creditor who violated a court order by allowing them to escape accountability due to the debtor's delay.</li>
   </ul>
 
-  <h3>File a Contempt Motion</h3>
-  <p>If a creditor is reporting a discharged debt with a balance, that may also constitute a violation of the <a href="/violations.html">discharge injunction</a> under 11 U.S.C. <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>(a)(2). You can file a <a href="/contempt.html">motion for contempt</a> in the bankruptcy court that issued your discharge. Courts have found that inaccurate credit reporting on discharged debts violates the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> and have awarded damages including emotional distress and punitive damages.</p>
-
-  <div class="callout callout-success">
-    <p><strong>You can pursue both remedies.</strong> The FCRA lawsuit (filed in district court) and the contempt motion (filed in bankruptcy court) are separate proceedings that address different legal violations. Many consumer attorneys pursue both simultaneously. The FCRA claim targets the credit bureau and the furnisher for inaccurate reporting. The contempt claim targets the creditor for violating the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a>. Together, they create maximum pressure for correction.</p>
-  </div>
-
-  <h2>How Long Bankruptcy Information Stays on Your Report</h2>
-
-  <p>Understanding the timeline helps you know when information should fall off your report:</p>
+  <h3>When Laches May Succeed</h3>
 
   <ul>
-    <li><strong>Chapter 7 filing:</strong> 10 years from the date of filing</li>
-    <li><strong>Chapter 13 filing:</strong> 7 years from the date of filing</li>
-    <li><strong>Individual accounts included in bankruptcy:</strong> 7 years from the date of first delinquency (not the filing date)</li>
-    <li><strong>Tax liens:</strong> 7 years from the date paid (unpaid tax liens were removed from credit reports by the bureaus starting in 2018)</li>
+    <li><strong>Long delay with knowledge.</strong> If the debtor knew about the violations for many years and took no action, the delay may be deemed unreasonable.</li>
+    <li><strong>Changed circumstances.</strong> If the creditor has undergone corporate changes, merged, or gone through its own bankruptcy, records may have been lost and the ability to defend has been genuinely impaired.</li>
+    <li><strong>One-time violation long ago.</strong> If there was a single violation years ago (for example, one collection letter sent shortly after discharge), and the debtor waited a decade to respond, laches may apply.</li>
   </ul>
 
-  <p>If any of these items remain on your report past their reporting period, dispute them as outdated under FCRA Section 605.</p>
+  <h2>The FDCPA Has a Clear One-Year Limit</h2>
+
+  <p>If your claim involves a third-party debt collector (as opposed to the original creditor), you may also have rights under the Fair Debt Collection Practices Act (FDCPA). Unlike the discharge injunction contempt remedy, the FDCPA has a clear, bright-line statute of limitations: one year from the date of the violation (15 U.S.C. Section 1692k(d)).</p>
+
+  <p>This means you should not delay if you have potential FDCPA claims. Even if the contempt remedy may not be time-barred, the FDCPA claim will be if you wait more than one year. For more on the overlap between the discharge injunction and the FDCPA, see our <a href="/debt-collector.html">debt collector guide</a>.</p>
+
+  <h2>Practical Advice: Do Not Wait</h2>
+
+  <p>Regardless of which court you are in and what the statute of limitations might be, the practical advice is clear: act promptly when you discover a discharge injunction violation. There are several reasons:</p>
+
+  <ul>
+    <li><strong>Evidence degrades.</strong> Call logs, voicemails, and letters are easier to produce when they are fresh. Waiting increases the risk that evidence is lost or deleted.</li>
+    <li><strong>FDCPA claims expire quickly.</strong> The one-year FDCPA deadline is strict and unforgiving.</li>
+    <li><strong>Laches risk increases.</strong> The longer you wait, the stronger the laches argument becomes.</li>
+    <li><strong>The violation may continue.</strong> Prompt action stops the bleeding. Every additional violation is additional harm that you should not have to endure.</li>
+    <li><strong>Courts respond better.</strong> Judges are more sympathetic to debtors who act quickly to enforce their rights than to those who sit on their claims for years.</li>
+  </ul>
+
+  <p>The first step should always be a written cease-and-desist notice to the violating creditor or collector, sent by certified mail. This puts the creditor on notice and eliminates any argument that they did not know about the discharge. If the violations continue, consult an attorney promptly.</p>
 
   <div class="callout callout-warning">
-    <p><strong>Not legal advice.</strong> This page provides general information about disputing credit report errors after bankruptcy. It is not a substitute for legal advice from a licensed attorney. Credit reporting law is complex and varies by circumstance. Consult an FCRA or consumer bankruptcy attorney for advice on your specific situation.</p>
+    <p><strong>Not legal advice.</strong> This page provides general information about time limits on discharge injunction enforcement. The law varies significantly by circuit and jurisdiction. An attorney in your area can advise you on the applicable limitations period and whether your claim is timely. Do not rely on this page to determine whether your specific claim is time-barred.</p>
   </div>
 
   <h2>Related Resources</h2>
 
   <ul>
-    <li><a href="/credit-reporting.html">Credit Reporting After Discharge</a> - how the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> applies to credit reporting</li>
-    <li><a href="/violations.html">Discharge Injunction Violations</a> - identifying and responding to all types of violations</li>
-    <li><a href="/contempt.html">Filing a Contempt Motion</a> - how to enforce the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> in court</li>
-    <li><a href="https://bankruptcyfreshstart.org">Fresh Start After Bankruptcy</a> - rebuilding credit and financial life after discharge</li>
-    <li><a href="https://nondischargeable.org">Nondischargeable Debts</a> - which debts survive bankruptcy and why they may still appear on your report</li>
+    <li><a href="/contempt.html">Filing a Contempt Motion</a> - the procedure for enforcing the discharge injunction in court</li>
+    <li><a href="/violations.html">Discharge Injunction Violations</a> - identifying and documenting violations</li>
+    <li><a href="/debt-collector.html">Debt Collectors After Discharge</a> - your rights when collectors call, including FDCPA overlap</li>
+    <li><a href="https://automaticstay.org/violations.html">Automatic Stay Violations</a> - time limits and remedies for stay violations during the case</li>
   </ul>
 
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -405,14 +380,10 @@
   <li><a href="https://524injunction.org" style="color:#58a6ff;text-decoration:none">524 Discharge Injunction</a></li>
   <li><a href="https://bankruptcydischarge.org" style="color:#58a6ff;text-decoration:none">Understanding Bankruptcy Discharge</a></li>
   <li><a href="https://bankruptcydischarge.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Discharge Guide</a></li>
-  <li><a href="https://section1328.org" style="color:#58a6ff;text-decoration:none">Section 1328 Discharge</a></li>
+  <li><a href="https://nondischargeable.org" style="color:#58a6ff;text-decoration:none">Non-Dischargeable Debts Guide</a></li>
   </ul>
 </div>
 
-
-<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
-    <a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
-</div>
 </main>
 
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -474,7 +445,7 @@
     <a href="https://1328f.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network">1328f.org</a>
     <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
@@ -511,7 +482,7 @@
     <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://ceaseanddesistdebt.com/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Cease and Desist Letters for Debt Collectors</a> <span style="color:#7d8590;font-size:0.8rem">-- ceaseanddesistdebt.com</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
   </ul>
 </div>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>

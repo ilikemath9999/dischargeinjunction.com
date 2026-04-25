@@ -199,27 +199,6 @@
 
 <link rel="alternate" hreflang="en" href="https://dischargeinjunction.com/credit-report-dispute.html">
 <link rel="alternate" hreflang="es" href="https://dischargeinjunction.com/credit-report-dispute-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
@@ -474,7 +453,7 @@
     <a href="https://1328f.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network">1328f.org</a>
     <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

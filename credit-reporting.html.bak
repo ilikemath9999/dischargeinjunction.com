@@ -18,17 +18,17 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Filing a Contempt Motion for Discharge Violations - Discharge Injunction</title>
-<meta name="description" content="Learn about filing a contempt motion for discharge violations | dischargeinjunction.com in our free 2026 guide.">
-<link rel="canonical" href="https://dischargeinjunction.com/contempt.html">
-<meta property="og:title" content="Filing a Contempt Motion for Discharge Violations - Discharge Injunction">
-<meta property="og:description" content="Learn about filing a contempt motion for discharge violations | dischargeinjunction.com in our free 2026 guide.">
+<title>Discharged Debts on Your Credit Report - Discharge Injunction</title>
+<meta name="description" content="Learn about discharged debts on your credit report | dischargeinjunction.com in our free 2026 guide. Clear explanations, real data,...">
+<link rel="canonical" href="https://dischargeinjunction.com/credit-reporting.html">
+<meta property="og:title" content="Discharged Debts on Your Credit Report - Discharge Injunction">
+<meta property="og:description" content="Learn about discharged debts on your credit report | dischargeinjunction.com in our free 2026 guide. Clear explanations, real data,...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://dischargeinjunction.com/contempt.html">
+<meta property="og:url" content="https://dischargeinjunction.com/credit-reporting.html">
 <meta property="og:site_name" content="dischargeinjunction.com">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Filing a Contempt Motion for Discharge Violations - Discharge Injunction">
-<meta name="twitter:description" content="Learn about filing a contempt motion for discharge violations | dischargeinjunction.com in our free 2026 guide.">
+<meta name="twitter:title" content="Discharged Debts on Your Credit Report - Discharge Injunction">
+<meta name="twitter:description" content="Learn about discharged debts on your credit report | dischargeinjunction.com in our free 2026 guide. Clear explanations, real data,...">
 <meta property="og:image" content="https://dischargeinjunction.com/og-image.svg">
 <meta name="twitter:image" content="https://dischargeinjunction.com/og-image.svg">
 
@@ -38,7 +38,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://dischargeinjunction.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Contempt Motions", "item": "https://dischargeinjunction.com/contempt.html" }
+    { "@type": "ListItem", "position": 2, "name": "Credit Reporting", "item": "https://dischargeinjunction.com/credit-reporting.html" }
   ]
 }
 </script>
@@ -86,6 +86,10 @@
   }
   .callout-warning { border-left-color: var(--red); }
   .callout p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 1.25rem 0; }
+  th, td { padding: 0.6rem 0.75rem; text-align: left; border: 1px solid var(--border); font-size: 0.9rem; }
+  th { background: var(--surface); color: #f0f6fc; font-weight: 600; }
+  td { color: var(--text); }
   .network-badge {
     display: inline-block; background: var(--surface); border: 1px solid var(--border);
     border-radius: 6px; padding: 0.35rem 0.75rem; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem;
@@ -108,6 +112,8 @@
     .hamburger { display: block; }
     nav .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
     nav .nav-links.open { display: flex; }
+    table { font-size: 0.8rem; }
+    th, td { padding: 0.4rem 0.5rem; }
   }
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
@@ -121,8 +127,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Filing a Contempt Motion for Discharge Violations",
-      "description": "How to file a contempt motion when a creditor violates the Section 524 discharge injunction. What you need to prove, potential damages, and key court decisions.",
+      "headline": "Discharged Debts on Your Credit Report",
+      "description": "How discharged debts should appear on your credit report, what to do if they are reported incorrectly, and how to dispute errors under the FCRA.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -134,68 +140,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://dischargeinjunction.com/contempt.html"
-    },
-    {
-      "@type": "HowTo",
-      "name": "Filing a Contempt Motion for Discharge Violations",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nFiling a Contempt Motion for Discharge Violation"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "The creditor knew about the discharge. In most cases, this is established by showing the creditor was listed in the bankruptcy schedules and received notice. The Bankruptcy Noticing Center (BNC) mails"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "The creditor took action to collect the discharged debt. You must show that the creditor engaged in conduct that violated the injunction - a phone call, letter, lawsuit, garnishment, credit reporting"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "Your discharge order (available from PACER or the court clerk)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Evidence the creditor was noticed (the BNC certificate of service)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Evidence of the violation (letters, call logs, voicemails, credit reports, lawsuit papers)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "Evidence of harm (emotional distress, financial harm, denied applications)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "Identify the discharged debt and the creditor"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "Attach the discharge order"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "Describe each violation with specificity (dates, times, what happened)"
-        }
-      ]
+      "mainEntityOfPage": "https://dischargeinjunction.com/credit-reporting.html"
     },
     {
       "@type": "WebPage",
-      "name": "Filing a Contempt Motion for Discharge Violations",
-      "url": "https://dischargeinjunction.com/contempt.html",
+      "name": "Discharged Debts on Your Credit Report",
+      "url": "https://dischargeinjunction.com/credit-reporting.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -209,33 +159,13 @@
   ]
 }
 </script>
+
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does bankruptcy cost?", "acceptedAnswer": {"@type": "Answer", "text": "Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees typically range from $1,000 to $3,500 depending on the chapter and complexity. Fee waivers and installment payments are available for those who qualify."}}, {"@type": "Question", "name": "Can I file bankruptcy if I can't afford an attorney?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can file pro se (without an attorney), apply for a fee waiver to eliminate the filing fee, or pay the filing fee in installments. Some legal aid organizations also provide free bankruptcy assistance."}}, {"@type": "Question", "name": "Are there hidden fees in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The main costs are the filing fee, attorney fee, and credit counseling courses (about $20-50 total). Some attorneys charge extra for adversary proceedings or plan modifications, so ask for a complete fee breakdown upfront."}}, {"@type": "Question", "name": "What is the cheapest way to file bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "The cheapest option is filing pro se with a fee waiver, which costs nothing. If you hire an attorney, Chapter 7 is generally less expensive than Chapter 13. Always compare quotes from multiple attorneys."}}, {"@type": "Question", "name": "Can I pay bankruptcy attorney fees in installments?", "acceptedAnswer": {"@type": "Answer", "text": "Most bankruptcy attorneys accept payment plans. In Chapter 13, attorney fees can even be paid through your repayment plan. In Chapter 7, many attorneys require full payment before filing, but installment arrangements are common."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How Discharged Debts Should Be Reported?", "acceptedAnswer": {"@type": "Answer", "text": "After your discharge, each debt included in the bankruptcy should appear on your credit report with the following characteristics: Field Correct Reporting Incorrect Reporting Balance $0 Any amount greater than $0 Status \"Included in bankruptcy\" or \"Discharged\" \"In collections,\" \"Charged off,\" \"Past..."}}, {"@type": "Question", "name": "How to Dispute Incorrect Reporting?", "acceptedAnswer": {"@type": "Answer", "text": "The Fair Credit Reporting Act (FCRA), codified at 15 U.S.C. Sections 1681-1681x , gives you the right to dispute inaccurate information on your credit report. Here is the process:"}}]}
 </script>
 
-<link rel="alternate" hreflang="en" href="https://dischargeinjunction.com/contempt.html">
-<link rel="alternate" hreflang="es" href="https://dischargeinjunction.com/contempt-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://dischargeinjunction.com/credit-reporting.html">
+<link rel="alternate" hreflang="es" href="https://dischargeinjunction.com/credit-reporting-es.html">
 </head>
 <body>
 <a href="#main" class="skip-link">Skip to main content</a>
@@ -246,8 +176,8 @@
   <div class="nav-links">
     <a href="/">Home</a>
     <a href="/violations.html">Violations</a>
-    <a href="/contempt.html" aria-current="page">Contempt</a>
-    <a href="/credit-reporting.html">Credit Reports</a>
+    <a href="/contempt.html">Contempt</a>
+    <a href="/credit-reporting.html" aria-current="page">Credit Reports</a>
     <a href="/what-is-not-covered.html">Exceptions</a>
     <a href="/debt-collector.html">Collectors</a>
     <a href="/employer-discrimination.html">Employers</a>
@@ -255,103 +185,119 @@
 </nav>
 
 <main id="main">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://dischargeinjunction.com/">Home</a><span class="separator">&rsaquo;</span><span>Contempt Motions</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://dischargeinjunction.com/">Home</a><span class="separator">&rsaquo;</span><span>Credit Reporting</span></nav>
 
   <div class="network-badge">Part of the <a href="https://1328f.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a></div>
 
-  <h1>Filing a Contempt Motion for Discharge Violations</h1>
+  <h1>Discharged Debts on Your Credit Report</h1>
 
-  <p class="lead">When a creditor violates the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a>, the bankruptcy court has the power to hold them in contempt. A contempt motion is the primary enforcement mechanism for <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>, and it can result in actual damages, emotional distress damages, punitive damages, and attorney fees.</p>
+  <p class="lead">After a bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, your credit report should reflect that discharged debts are no longer owed. When creditors report them incorrectly, you have rights under both <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a> and the Fair Credit Reporting Act.</p>
 
-  <h2>What You Need to Prove</h2>
+  <h2>How Discharged Debts Should Be Reported</h2>
 
-  <p>To succeed on a contempt motion for a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> violation, you generally need to establish three elements:</p>
+  <p>After your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, each debt included in the bankruptcy should appear on your credit report with the following characteristics:</p>
 
-  <ol>
-    <li><strong>A <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> was entered.</strong> You must show that the bankruptcy court entered a discharge order and that the specific debt at issue was covered by the discharge.</li>
-    <li><strong>The creditor knew about the discharge.</strong> In most cases, this is established by showing the creditor was listed in the bankruptcy schedules and received notice. The Bankruptcy Noticing Center (BNC) mails the discharge order to all creditors, and the certificate of service is part of the court record.</li>
-    <li><strong>The creditor took action to collect the discharged debt.</strong> You must show that the creditor engaged in conduct that violated the injunction - a phone call, letter, lawsuit, <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a>, credit reporting, or other collection activity directed at you personally for the discharged debt.</li>
-  </ol>
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Field</th>
+        <th scope="col">Correct Reporting</th>
+        <th scope="col">Incorrect Reporting</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Balance</td>
+        <td>$0</td>
+        <td>Any amount greater than $0</td>
+      </tr>
+      <tr>
+        <td>Status</td>
+        <td>"Included in bankruptcy" or "Discharged"</td>
+        <td>"In collections," "Charged off," "Past due"</td>
+      </tr>
+      <tr>
+        <td>Payment status</td>
+        <td>No payment due</td>
+        <td>"30 days late," "60 days late," etc.</td>
+      </tr>
+      <tr>
+        <td>Collection activity</td>
+        <td>None</td>
+        <td>Transferred to collections, new collection tradeline</td>
+      </tr>
+    </tbody>
+  </table>
 
-  <div class="callout">
-    <p><strong>The standard:</strong> Most courts apply a civil contempt standard, meaning you must prove the violation by clear and convincing evidence. Some circuits require only a preponderance of the evidence. The creditor's intent is relevant to the remedy (especially punitive damages) but generally not required to establish the violation itself. A creditor cannot escape liability simply by claiming they did not know about the discharge if they were properly noticed.</p>
-  </div>
-
-  <h2>How to File</h2>
-
-  <h3>Step 1: Gather Your Evidence</h3>
-  <p>Before filing, assemble all evidence of the violation. See the <a href="/violations.html">violations guide</a> for detailed documentation steps. You will need:</p>
-  <ul>
-    <li>Your discharge order (available from <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> or the court clerk)</li>
-    <li>Evidence the creditor was noticed (the BNC certificate of service)</li>
-    <li>Evidence of the violation (letters, call logs, voicemails, credit reports, lawsuit papers)</li>
-    <li>Evidence of harm (emotional distress, financial harm, denied applications)</li>
-  </ul>
-
-  <h3>Step 2: Reopen the Case (if necessary)</h3>
-  <p>If your bankruptcy case has been closed, you will need to file a motion to reopen it. Most courts allow reopening specifically to enforce the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a>. The filing fee to reopen is typically the same as the original petition fee, but some courts waive or reduce it for discharge enforcement. Check your district's local rules.</p>
-
-  <h3>Step 3: File the Motion</h3>
-  <p>File a motion for contempt (sometimes called a "Motion for Sanctions for Violation of the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Discharge Injunction</a>" or "Motion to Enforce Discharge Order") in the bankruptcy court that issued your discharge. The motion should:</p>
-  <ul>
-    <li>Identify the discharged debt and the creditor</li>
-    <li>Attach the discharge order</li>
-    <li>Describe each violation with specificity (dates, times, what happened)</li>
-    <li>Attach supporting evidence</li>
-    <li>State the relief you are requesting (injunctive relief, actual damages, emotional distress, punitive damages, attorney fees)</li>
-  </ul>
-
-  <h3>Step 4: Serve the Creditor</h3>
-  <p>The creditor must be served with the motion and notice of the hearing. Service requirements vary by district - check your local bankruptcy rules for proper service methods.</p>
-
-  <h3>Step 5: The Hearing</h3>
-  <p>The court will schedule a hearing. At the hearing, you (or your attorney) will present evidence of the violation. The creditor will have an opportunity to respond. The judge will then rule on whether contempt has been established and what damages, if any, to award.</p>
-
-  <h2>Available Damages</h2>
-
-  <p>If the court finds a violation, it can award a range of remedies:</p>
-
-  <ul>
-    <li><strong>Injunctive relief.</strong> An order directing the creditor to cease all collection activity and correct any credit reporting.</li>
-    <li><strong>Actual damages.</strong> Compensation for out-of-pocket losses caused by the violation. Examples: fees paid to respond to an improper lawsuit, costs of credit monitoring, higher interest rates on loans due to damaged credit.</li>
-    <li><strong>Emotional distress damages.</strong> Many courts recognize that discharge violations cause anxiety, stress, and emotional harm. Damages have ranged from a few hundred dollars for minor incidents to $25,000 or more for sustained, egregious conduct.</li>
-    <li><strong>Punitive damages.</strong> Available where the creditor's conduct was willful, egregious, or in bad faith. Courts have awarded punitive damages of $5,000 to $100,000+ depending on the creditor's size, conduct, and history of violations.</li>
-    <li><strong>Attorney fees and costs.</strong> The court can order the creditor to pay your attorney fees for bringing the contempt motion. This is significant because it allows debtors to retain counsel even when their individual damages might be modest.</li>
-  </ul>
-
-  <h2>Key Court Decisions</h2>
-
-  <p>Several important cases have shaped how courts enforce the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a>:</p>
-
-  <h3>Taggart v. Lorenzen, 139 S. Ct. 1795 (2019)</h3>
-  <p>The U.S. Supreme Court held that a creditor can be held in civil contempt for violating the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> if there was no "fair ground of doubt" about whether the discharge order barred the creditor's conduct. This replaced the strict liability approach used by some circuits and the subjective intent approach used by others, establishing a middle ground. The key question: would a reasonable person have known that the conduct violated the discharge?</p>
-
-  <h3>In re Joubert, 411 F.3d 452 (3d Cir. 2005)</h3>
-  <p>The Third Circuit held that <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>(a)(2) creates a private right of action enforceable through civil contempt. The court may award actual damages, including emotional distress damages, and attorney fees. This case is frequently cited for the proposition that the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> has teeth.</p>
-
-  <h3>In re Hardy, 97 F.3d 1384 (11th Cir. 1996)</h3>
-  <p>The Eleventh Circuit confirmed that bankruptcy courts have inherent contempt power to enforce the discharge injunction and can award compensatory and punitive damages for willful violations.</p>
-
-  <h3>In re Pratt, 462 F.3d 14 (1st Cir. 2006)</h3>
-  <p>The First Circuit held that even informal collection activity - such as phone calls and letters that stop short of filing a lawsuit - can violate the discharge injunction and support a contempt finding.</p>
+  <p>The bankruptcy itself will appear on your credit report for 7 years (<a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>) or 10 years (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>) from the filing date. But individual discharged debts should show zero balances and no ongoing delinquency.</p>
 
   <div class="callout">
-    <p><strong>Circuit splits exist.</strong> Courts disagree on some issues, including whether <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a> creates a private right of action (most say yes, through contempt) and what standard of proof applies. The law in your circuit matters. An experienced consumer bankruptcy attorney will know how your local courts handle these issues.</p>
+    <p><strong>Key point:</strong> A creditor cannot report a discharged debt as "charged off" with an outstanding balance. "Charged off" is an accounting term that means the creditor wrote the debt off its books, but it implies the debtor still owes the money. After discharge, the debtor owes nothing. The correct notation is "included in bankruptcy" or "discharged in bankruptcy" with a $0 balance.</p>
   </div>
 
-  <h2>Pro Se vs. Represented</h2>
+  <h2>Common Credit Reporting Problems</h2>
 
-  <p>You have the right to file a contempt motion <a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">without an attorney</a> (<a href="https://prosebankruptcy.org/" title="pro se">pro se</a>). However, these cases can become complex, especially if the creditor is represented by counsel. Practical considerations:</p>
+  <p>These are the most frequent credit reporting errors debtors encounter after discharge:</p>
 
   <ul>
-    <li><strong><a href="https://prosebankruptcy.org/" title="pro se">Pro se</a> is viable for straightforward cases</strong> - a single creditor, clear violation, good documentation. Courts are generally sympathetic to pro se debtors enforcing their discharge.</li>
-    <li><strong>An attorney is strongly recommended</strong> when the violations involve credit reporting (complex FCRA interplay), multiple creditors, or large potential damages.</li>
-    <li><strong>Many attorneys take these cases on contingency</strong> because the court can award attorney fees. The creditor's potential fee liability often motivates settlement.</li>
-    <li><strong>Legal aid organizations</strong> in many jurisdictions can assist with discharge enforcement for low-income debtors.</li>
+    <li><strong>Balance not zeroed out.</strong> The most common problem. The creditor's automated system never updates the balance to $0 after the discharge. The debt continues to appear as owing the original or last-known balance.</li>
+    <li><strong>New collection tradeline.</strong> The original creditor sells the debt to a debt buyer after the bankruptcy. The buyer opens a new tradeline on your credit report, making it appear you have a new collection account - even though the debt was discharged.</li>
+    <li><strong>Continued delinquency reporting.</strong> The account keeps accruing "late" marks month after month, even though no payment is or could be due. This progressively damages your credit score.</li>
+    <li><strong>Not marked as "included in bankruptcy."</strong> The debt shows on the report with no indication that it was discharged, making it appear like a separate, active delinquent account.</li>
+    <li><strong>Duplicate entries.</strong> The debt appears both as the original account (correctly marked) and as a new collection account (not marked), creating a false impression of additional debt.</li>
   </ul>
+
+  <h2>How to Dispute Incorrect Reporting</h2>
+
+  <p>The Fair Credit Reporting Act (FCRA), codified at <a href="https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III">15 U.S.C. Sections 1681-1681x</a>, gives you the right to dispute inaccurate information on your credit report. Here is the process:</p>
+
+  <h3>Step 1: Pull Your Credit Reports</h3>
+  <p>Get your reports from all three bureaus at <a href="https://www.annualcreditreport.com">AnnualCreditReport.com</a>. You are entitled to free weekly reports. Review each one for discharged debts that are incorrectly reported.</p>
+
+  <h3>Step 2: File Disputes with Each Bureau</h3>
+  <p>For each incorrect entry, file a dispute with the credit bureau that is showing the error. You can dispute online, by phone, or by mail. Mail is recommended because it creates a paper trail.</p>
+  <ul>
+    <li><strong>Equifax:</strong> P.O. Box 740256, Atlanta, GA 30374 | <a href="https://www.equifax.com/personal/credit-report-services/credit-dispute/">equifax.com/dispute</a></li>
+    <li><strong>Experian:</strong> P.O. Box 4500, Allen, TX 75013 | <a href="https://www.experian.com/disputes/main.html">experian.com/disputes</a></li>
+    <li><strong>TransUnion:</strong> P.O. Box 2000, Chester, PA 19016 | <a href="https://www.transunion.com/credit-disputes/dispute-your-credit">transunion.com/dispute</a></li>
+  </ul>
+  <p>Include a copy of your discharge order with each dispute. State clearly: "This debt was discharged in my bankruptcy case [case number] on [date]. The balance should be $0 and the status should reflect 'Included in Bankruptcy.'"</p>
+
+  <h3>Step 3: Dispute Directly with the Creditor</h3>
+  <p>Under the FCRA, the entity furnishing the information (the creditor) also has obligations. Send a letter to the creditor demanding they correct their reporting. Include your discharge order.</p>
+
+  <h3>Step 4: Wait for the Investigation</h3>
+  <p>The credit bureau has 30 days (sometimes 45) to investigate your dispute. They must contact the creditor, and the creditor must verify or correct the information. If the creditor does not respond, the item must be removed.</p>
+
+  <h3>Step 5: Review the Results</h3>
+  <p>The bureau will send you the results of the investigation. If the item was corrected, verify the correction on your report. If it was not corrected and you believe the dispute is valid, you have several options:</p>
+
+  <ul>
+    <li>File a complaint with the <a href="https://www.consumerfinance.gov/complaint/">Consumer Financial Protection Bureau (CFPB)</a></li>
+    <li>File a complaint with the <a href="https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act">Federal Trade Commission (FTC)</a></li>
+    <li>Consult a consumer attorney about an FCRA lawsuit</li>
+    <li>File a contempt motion in your bankruptcy court for violation of the <a href="/">Section 524 discharge injunction</a></li>
+  </ul>
+
+  <h2>FCRA Damages</h2>
+
+  <p>If a creditor or credit bureau willfully or negligently fails to correct inaccurate reporting of a discharged debt, you may be entitled to damages under the FCRA:</p>
+
+  <ul>
+    <li><strong>Actual damages</strong> - Financial harm caused by the inaccurate reporting (denied credit, higher interest rates, lost housing or employment)</li>
+    <li><strong>Statutory damages</strong> - $100 to $1,000 per willful violation, even without proving actual harm</li>
+    <li><strong>Punitive damages</strong> - Available for willful violations</li>
+    <li><strong>Attorney fees and costs</strong> - The court can require the violator to pay your legal fees</li>
+  </ul>
+
+  <p>These FCRA remedies are in addition to any damages available through a <a href="/contempt.html">contempt motion</a> in bankruptcy court for violating the <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a> <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a>.</p>
+
+  <div class="callout">
+    <p><strong>Two paths, not exclusive.</strong> You can pursue both an FCRA claim (in federal district court or state court) and a contempt motion (in bankruptcy court) simultaneously. The FCRA addresses the credit reporting violation; the contempt motion addresses the <a href="https://dischargeinjunction.com" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> violation. An attorney experienced in consumer law can advise which approach is best for your situation.</p>
+  </div>
 
   <div class="callout callout-warning">
-    <p><strong>Not legal advice.</strong> This page provides general information about contempt proceedings for discharge violations. It is not a substitute for legal advice from a licensed attorney. Every case has unique facts that affect strategy and outcome. Consult a consumer bankruptcy attorney for advice on your specific situation.</p>
+    <p><strong>Not legal advice.</strong> This page provides general information about credit reporting after bankruptcy. It is not a substitute for legal advice from a licensed attorney. Consult a consumer attorney for advice on your specific situation.</p>
   </div>
 
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -426,7 +372,7 @@
     <a href="https://1328f.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network">1328f.org</a>
     <a href="https://dischargeinjunction.com">dischargeinjunction.com</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=dischargeinjunction.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
@@ -461,7 +407,7 @@
     <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://ceaseanddesistdebt.com/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Cease and Desist Letters for Debt Collectors</a> <span style="color:#7d8590;font-size:0.8rem">-- ceaseanddesistdebt.com</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=dischargeinjunction.com&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
   </ul>
 </div>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
